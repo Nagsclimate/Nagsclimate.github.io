@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Nagaraju gaddam website
+title: Nagaraju Gaddam
 
 # Your name to show in the footer
 author: Some Person
@@ -56,14 +56,14 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
+  email: "gaddamnagaraju112@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  facebook: Nagaraju Gaddam
+  github: Nagsclimate
+  twitter: Nagarajuiisc
   patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+  youtube: "citysustainhub"
+  whatsapp: +91 9502416920
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
