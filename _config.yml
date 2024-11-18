@@ -13,7 +13,17 @@
 title: Nagaraju Gaddam
 
 # Your name to show in the footer
-author: Nagaraju Gaddam
+#author: Nagaraju Gaddam
+
+
+
+author:
+  name: Priya L. Donti
+  email: "donti@mit.edu"
+  github: priyald17
+  twitter: priyald17
+  linkedin: priya-donti
+  googlescholar: PfRSkfEAAAAJ
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -55,15 +65,15 @@ navbar-col: "light gray"
 # Select the social network links that you want to show in the footer.
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
-social-network-links:
-  email: "gaddamnagaraju112@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#social-network-links:
+  #email: "gaddamnagaraju112@gmail.com"
+  #rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: Nagaraju Gaddam
   github: Nagsclimate
   twitter: Nagarajuiisc
-  patreon: DeanAttali
-  youtube: "citysustainhub"
-  whatsapp: +91 9502416920
+  #patreon: DeanAttali
+  #youtube: "citysustainhub"
+  #whatsapp: +91 9502416920
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
 #  linkedin: daattali
