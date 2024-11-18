@@ -21,6 +21,12 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Bio Sketch: "Bio -Sketch"
+  Publications: "publications"
+  Resources: "Resources"
+  Personal: "Personal"
+  # CV: "files/dontiCV.pdf"
+  Bio & CV: "bio"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
