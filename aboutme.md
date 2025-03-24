@@ -4,7 +4,7 @@ title: About me
 subtitle: A glimpse into my journey in urban climate science and beyond
 ---
 
-Hi, I’m **Nagaraju Gaddam from india**. I’m an Urban Climate Scientist, researcher, and entrepreneur passionate about weather, climate, urban sustainability, and climate policies. Over the years, I’ve worked on a variety of projects focusing on the integration of atmospheric modeling and urban flood forecasting. My goal is to develop practical solutions that help cities adapt to the challenges posed by climate change.
+Hi, I’m **Nagaraju Gaddam**. I’m an Urban Climate Scientist, researcher, and entrepreneur passionate about weather, climate, urban sustainability, and climate policies. Over the years, I’ve worked on a variety of projects focusing on the integration of atmospheric modeling and urban flood forecasting. My goal is to develop practical solutions that help cities adapt to the challenges posed by climate change.
 
 ### My Journey
 
