@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Dr Shreevastava"
+title: "About Mr Gaddam"
 classes: wide
 layout: single
 classes: wide
