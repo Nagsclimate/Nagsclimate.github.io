@@ -65,28 +65,27 @@ plugins:
 author:
   name   : "Anamika Shreevastava"
   avatar : "/assets/images/Display pic.JPG"
-  bio    : "Doctoral Researcher<br>
-            Dept of MAE and CUSP, <br>
-            Tandon School of Engineering <br>
-            New York University, NYC"
-  location: "Caltech, Pasadena, CA"
+  bio    : "Doctoral Researcher <br>
+            Dept of Physics and Astronomy <br>
+            University of Bologna, Bologna"
+  location: "Bologna, Emila Romgna, IT"
   links:
 
     - label: "Email"
       icon: "far fa-fw fa-paper-plane"
-      url: "mailto:ashreeva@caltech.edu"
+      url: "mailto:nagaraju.gaddam2@unibo.it"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Anamika255"
+      url: "https://github.com/Nagsclimate"
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/anamika255/"
+      url: "https://www.linkedin.com/in/nagarajugaddam/"
 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/Anamika255"
+      url: "https://twitter.com/nagstweet"
 
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
