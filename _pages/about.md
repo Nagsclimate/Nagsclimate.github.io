@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Dr. Shreevastava"
+title: "About Mr. Nagaraju"
 layout: single
 classes: wide
 sitemap: true
@@ -8,10 +8,10 @@ author_profile: true
 ---
 
 <figure style="width: 400px" class="align-right">
-  <img src="/assets/images/Display pic.JPG" alt="Dr. Shreevastava">
+  <img src="/assets/images/Display pic.JPG" alt="Mr. Nagaraju">
 </figure>
 
-I’m Nagaraju Gaddam, currently a Marie Curie Doctoral Researcher at the [University of Bologna (Unibo)](https://www.unibo.it/en) and the [Department of Physics and Astronomy (DIFA)](https://physics-astronomy.unibo.it/en/index.html). In Fall 2025, I will join [New York University (NYU)](https://engineering.nyu.edu/faculty/anamika-shreevastava) as an Assistant Professor with a joint appointment in the Department of Mechanical and Aerospace Engineering (MAE) and the Center for Urban Science and Progress (CUSP).
+Hello, I’m Nagaraju Gaddam, currently a Marie Curie Doctoral Researcher at the [University of Bologna (Unibo)](https://www.unibo.it/en) and the [Department of Physics and Astronomy (DIFA)](https://physics-astronomy.unibo.it/en/index.html). 
 
 My research focuses on the dynamic interplay between cities and extreme weather—particularly the growing threat of extreme heat in urban environments around the world. I employ a combination of numerical weather modeling, remote sensing, and data science to uncover patterns and mechanisms behind urban heat stress, aiming to develop equitable and climate-resilient solutions for cities, especially those affected by environmental injustice.
 
@@ -19,7 +19,7 @@ My research focuses on the dynamic interplay between cities and extreme weather�
 
 ### Academic Journey
 
-I earned my PhD from Purdue University, where I introduced the concept of *fractal intra-urban heat islets*—a novel framework for understanding the spatial heterogeneity of urban heat islands. My work revealed that these heat islets share a consistent fractal structure across global cities, providing a foundation for adaptive modeling of urban heat at multiple scales.
+I earned my Masters from University of Hyderbad, Telangana, where I introduced the concept of *fractal intra-urban heat islets*—a novel framework for understanding the spatial heterogeneity of urban heat islands. My work revealed that these heat islets share a consistent fractal structure across global cities, providing a foundation for adaptive modeling of urban heat at multiple scales.
 
 As a postdoctoral researcher at NASA’s Jet Propulsion Laboratory (JPL) and Caltech, I advanced methods in thermal remote sensing and urban microclimate monitoring. This included contributions to cutting-edge sensing technologies and collaborative work with public and private sectors in California to develop neighborhood-scale cooling solutions. I also served as a science ambassador and member of several applied science teams at NASA JPL.
 
