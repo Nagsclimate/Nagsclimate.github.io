@@ -37,7 +37,7 @@ By integrating urban design, advanced modeling techniques, and spatial data anal
 
 
 
-<!--
+--
 ## Doctoral Research Themes
 
 | **Urban Heat Islands as an archipelago of Fractal intra-urban heat islets** <br> <br> Surface Urban Heat Islands (SUHI) are traditionally quantified by a bulk metric of SUHI Intensity. However, cities are highly spatially heterogeneous and temperatures within vary widely. Inspired by the [fractal nature of cities](http://www.complexcity.info/), we show for the first time, that for diverse cities across the world, SUHIs are fractal in nature. We analyze the SUHI as a collection of *intra-urban heat islets* and leverage the self-similarity to develop comprehensive metrics to quantify intra-urban thermal complexity. <br> <br> Read more: [[Phys. Rev. E.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032142)] [[SPIE Remote Sensing](https://doi.org/10.1117/12.2501441)] [[EarthArXiv Preprint](https://eartharxiv.org/t9s3g)] [[Poster Summary](/assets/files/Poster_LCLUC_Anamika.pdf)] | <img src="/assets/images/PRE_pic2.png" width="1600px" alt="PRE"> |
@@ -58,7 +58,7 @@ By integrating urban design, advanced modeling techniques, and spatial data anal
 | **Impact of spatial organization of Local Climate Zones on Urban Surface temperatures** <br> <br> [Local Climate Zones (LCZ)](http://www.wudapt.org/lcz/) are an urban land cover land use classification system that help standardize methods of observation and documentation in urban heat island studies. It is based on a random forest classification workflow implemented in SAGA GIS. I worked on developing LCZ maps for diverse cities across the world. While there is a point-to-point correlation between the LCZ classes and Urban Temperatures, the spatial neighborhoods of each LCZs strongly influence the temperature distributions as well. <br><br> Read more: [[Poster](/assets/files/LCZ_LST_AMS-poster.pdf)] [[BAMS Article](https://doi.org/10.1175/BAMS-D-16-0236.1)] | <img src="/assets/images/LCZ.png" width="1600px" alt="LCZ"> |
 
 
-<!--
+--
 ## Building Energy Usage
 
 
