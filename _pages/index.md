@@ -9,9 +9,9 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
-      url: "https://Anamika255.github.io/about/"
+      url: "https://nagsclimate.github.io/about/"
     - label: "Join us"
-      url: "https://Anamika255.github.io/join-us/"
+      url: "hhttps://nagsclimate.github.io/join-us/"
 
 excerpt: >
   <br>
@@ -23,10 +23,9 @@ feature_row:
   - image_path: /assets/logos/LOGO.png
   - title: "Doctoral Researcher"
     excerpt: "(Starting Fall 2025) <br>
-    Dept. of Mechanical & Aerospace Engineering, <br>
-    and Center for Urban Science and Progress, <br>
-    Tandon School of Engineering, <br>
-    New York University​"
+    Dept. of Physics & Astronomy, <br>
+    and Future Earth,Climate Change & Societal Challenges, <br>
+    University of Bologna​"
   - image_path: /assets/logos/NYU_tandon_wide.png
 ---
 
