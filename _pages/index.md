@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 classes: wide
-title: "Welcome to NagsClimate"
+title: "The Urban Planet Lab"
 header:
   overlay_image: assets/city-pics/Bologna.jpeg
   overlay_filter: 0.7
@@ -15,6 +15,8 @@ header:
 
 excerpt: >
   <br>
+  Welcome!
+  <br>
   Welcome to my website a space where science meets cities, and climate meets community.
   
   My research explores how urban environments interact with extreme weather, using tools like Numerical weather modeling, remote sensing, and data science. I focus on understanding and addressing challenges like urban heat, flooding, and climate inequality to help build more resilient and just cities.
@@ -24,7 +26,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/logos/LOGO.png
   - title: "Marie Curie Doctoral Researcher"
-    #excerpt: "(Starting Fall 2025) <br>
+    excerpt: "(Starting Fall 2025) <br>
     Department of Physics & Astronomy, <br>
     Future Earth,Climate Change & Societal Challenges, <br>
     University of Bologna​"
