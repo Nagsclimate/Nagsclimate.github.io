@@ -15,18 +15,20 @@ header:
 
 excerpt: >
   <br>
-  Welcome to the Urban Planet Lab!
+  Greerings from Gaddam!
   <br>
-  Cities extend their influence far beyond their physical boundaries, affecting ecosystems, climate, and societies worldwide. At the Urban Planet Lab, we study the dynamics and impacts of urbanization at multiple scales—from local neighborhoods to global systems—to better understand and address the complex challenges of our increasingly urbanized world.
+  Welcome to my website—a space where science meets cities, and climate meets community.My research explores how urban environments interact with extreme weather, using tools like weather modeling, remote sensing, and data science. I focus on understanding and addressing challenges like urban heat, flooding, and climate inequality to help build more resilient and just cities.
+  
+  Whether you're a student, researcher, or urban enthusiast—thank you for visiting. I hope you find insights here that inspire collaboration and action.
   <br>
 feature_row:
   - image_path: /assets/logos/LOGO.png
   - title: "Doctoral Researcher"
     excerpt: "(Starting Fall 2025) <br>
-    Dept. of Physics & Astronomy, <br>
-    and Future Earth,Climate Change & Societal Challenges, <br>
+    Department of Physics & Astronomy, <br>
+    Future Earth,Climate Change & Societal Challenges, <br>
     University of Bologna​"
-  - image_path: /assets/logos/NYU_tandon_wide.png
+  - image_path: /assets/logos/NYU_tandon_wide1.png
 ---
 
 
