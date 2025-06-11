@@ -1,8 +1,8 @@
 main:
-  - title: "Research"
-    url: /research/
   - title: "Lab Lead"
     url: /about/
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /papers/
   - title: "Resources"
