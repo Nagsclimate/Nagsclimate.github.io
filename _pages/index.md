@@ -21,7 +21,7 @@ excerpt: >
   <br>
 feature_row:
   - image_path: /assets/logos/LOGO.png
-  - title: "Assistant Professor"
+  - title: "Doctoral Researcher"
     excerpt: "(Starting Fall 2025) <br>
     Dept. of Mechanical & Aerospace Engineering, <br>
     and Center for Urban Science and Progress, <br>
