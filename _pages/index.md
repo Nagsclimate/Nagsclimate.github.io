@@ -4,14 +4,14 @@ permalink: /
 classes: wide
 title: ""
 header:
-  overlay_image: assets/city-pics/City-Sun.jpg
+  overlay_image: assets/city-pics/Bologna.jpeg
   overlay_filter: 0.7
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Learn More"
-      url: "https://Anamika255.github.io/about/"
+      url: "https://nagsclimate.github.io/about/"
     - label: "Join us"
-      url: "https://Anamika255.github.io/join-us/"
+      url: "https://nagsclimate.github.io/join-us/"
 
 excerpt: >
   <br>
@@ -21,13 +21,12 @@ excerpt: >
   <br>
 feature_row:
   - image_path: /assets/logos/LOGO.png
-  - title: "Assistant Professor"
-    excerpt: "(Starting Fall 2025) <br>
-    Dept. of Mechanical & Aerospace Engineering, <br>
-    and Center for Urban Science and Progress, <br>
-    Tandon School of Engineering, <br>
-    New York University​"
-  - image_path: /assets/logos/NYU_tandon_wide.png
+  - title: "Doctoral Researcher"
+    excerpt: Marie Curie Fellow <br>
+    Department of Physics & Astronomy, <br>
+    Future Earth,Climate Change & Societal Challenges, <br>
+    University of Bologna​"
+  - image_path: /assets/logos/NYU_tandon_wide1.png
 ---
 
 
