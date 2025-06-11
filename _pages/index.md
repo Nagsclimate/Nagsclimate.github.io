@@ -17,14 +17,14 @@ excerpt: >
   <br>
   Welcome to my website!
   <br>
-  A space where science meets cities, and climate meets community.
-  My research explores how urban environments interact with extreme weather, using tools like Numerical weather modeling, remote sensing, and data science. I focus on understanding and addressing challenges like urban heat, flooding, and climate inequality to help build more resilient and just cities.
+  A space where science meets cities, and climate meets community. My research explores how urban environments interact with extreme weather, using tools like Numerical weather modeling, remote sensing, and data science. I focus on understanding and addressing challenges like urban heat, flooding, and climate inequality to help build more resilient and just cities.
+  
   Whether you're a student, researcher, or urban enthusiast—thank you for visiting. I hope you find insights here that inspire collaboration and action.
   <br>
 feature_row:
   - image_path: /assets/logos/LOGO.png
   - title: "Doctoral Researcher"
-    excerpt: Marie Curie Fellow <br>
+    excerpt: (Marie Curie Fellow) <br>
     Department of Physics & Astronomy, <br>
     Future Earth,Climate Change & Societal Challenges, <br>
     University of Bologna​"
