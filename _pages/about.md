@@ -1,49 +1,32 @@
 ---
 permalink: /about/
-title: "About Mr. Nagaraju"
+title: "About Dr Shreevastava"
+classes: wide
 layout: single
 classes: wide
 sitemap: true
 author_profile: true
 ---
 
+
 <figure style="width: 400px" class="align-right">
-  <img src="/assets/images/Display pic.JPG" alt="Mr. Nagaraju">
+  <img src="/assets/images/Display pic.JPG" alt="">
 </figure>
 
-Hello, I’m Nagaraju Gaddam, currently a Marie Curie Doctoral Researcher at the [University of Bologna (Unibo)](https://www.unibo.it/en) and the [Department of Physics and Astronomy (DIFA)](https://physics-astronomy.unibo.it/en/index.html). 
 
-My research focuses on the dynamic interplay between cities and extreme weather—particularly the growing threat of extreme heat in urban environments around the world. I employ a combination of numerical weather modeling, remote sensing, and data science to uncover patterns and mechanisms behind urban heat stress, aiming to develop equitable and climate-resilient solutions for cities, especially those affected by environmental injustice.
+I am currently a postdoctoral researcher at [Caltech](https://rsfralab.github.io/people/staff/anamika.html) and [Jet Propulsion Laboratory](https://science.jpl.nasa.gov/people/anamika-shreevastava/). I am starting as [Assistant Professor at NYU](https://engineering.nyu.edu/faculty/anamika-shreevastava) in Fall 2025 with a joint appointment in the Department of Mechanical and Aerospace Engineering (MAE) and the Center for Urban Science and Progress (CUSP). My research focuses on the complex interplay between cities and extreme weather, with a particular emphasis on the emergence and impacts of extreme heat in urban environments worldwide. I use various tools and techniques from numerical weather modeling and remote sensing to find equitable solutions to climate and environmental injustice within cities.
 
----
+During my PhD from Purdue University, I pioneered the concept of "*fractal intra-urban heat islets*", characterizing the spatial heterogeneity of urban heat islands. I demonstrated that these heat islets exhibit a common fractal structure across diverse cities, laying the groundwork for globally adaptive models of heat emergence. My postdoctoral work at NASA Jet Propulsion Laboratory (JPL) and Caltech advanced thermal remote sensing and urban microclimate monitoring, contributing to innovative sensing technologies and deepening the understanding of how extreme heat disproportionately affects the urban poor and historically marginalized communities in Los Angeles. Committed to translating research into practical climate adaptation solutions, I have also served as a science ambassador and member of applied science teams at NASA JPL, actively collaborating with private and public institutions in California to develop cooling solutions for urban neighborhoods.
 
-### Academic Journey
-
-I earned my Masters from University of Hyderbad, Telangana, where I introduced the concept of *fractal intra-urban heat islets*—a novel framework for understanding the spatial heterogeneity of urban heat islands. My work revealed that these heat islets share a consistent fractal structure across global cities, providing a foundation for adaptive modeling of urban heat at multiple scales.
-
-As a postdoctoral researcher at NASA’s Jet Propulsion Laboratory (JPL) and Caltech, I advanced methods in thermal remote sensing and urban microclimate monitoring. This included contributions to cutting-edge sensing technologies and collaborative work with public and private sectors in California to develop neighborhood-scale cooling solutions. I also served as a science ambassador and member of several applied science teams at NASA JPL.
-
----
+I come from India, where I've spent most of my life in Ranchi—my hometown, now famous as Dhoni’s hometown—and in Roorkee, where I earned my undergraduate degree in Civil Engineering from IIT Roorkee. Beyond science, I have a passion for music and maps. Through my work, I’ve discovered my love for viewing the Earth through satellite imagery. I’ve spent countless hours on Google Earth and during flights, marveling at both the natural and engineered beauty of our planet. By now, the neural networks in my brain can recognize most cities from just a fragment of their road networks, coastlines, river bends, night light patterns, or even raw Landsat images.
 
 ### Research Philosophy
 
-My research philosophy is rooted in viewing extreme weather and urban systems as interlinked, evolving entities. Urban environments comprise spatially heterogeneous *forms* (such as infrastructure and land cover) and temporally variable *functions* (like energy use and emissions). These interact with atmospheric dynamics and land–ocean feedbacks, creating nonlinear effects such as the Urban Heat Island (UHI).
+My research philosophy is grounded in viewing extreme weather and urban socio-physical systems as two interconnected, dynamic systems that interact across multiple spatiotemporal scales. Cities, for instance, are composed of spatially heterogeneous *forms*—buildings, road networks, and infrastructure that evolve over decades—and *functions* such as mobility, energy consumption, and anthropogenic emissions that fluctuate daily. Similarly, extreme weather and climate events emerge from nonlinear interactions between land, atmosphere, and ocean systems, driven by multi-scale feedback mechanisms.
 
-UHIs are not isolated events—they are outcomes of deep, systemic interactions between urban form-function and the broader climate system. Heatwaves, for example, degrade natural ecosystems and intensify urban vulnerabilities, often disproportionately affecting marginalized populations. This understanding drives my pursuit of science-informed, community-focused climate adaptation strategies.
+A key outcome of the interplay between these two complex systems is the Urban Heat Island effect, a phenomenon I focused on during my PhD. UHIs result from the excess heat generated within cities due to their unique structure and functions. On a broader scale, heatwaves not only damage ecosystems—affecting forests, croplands, water resources, and the eco-hydro-climatic balance—but also exacerbate urban stress by depleting natural resources and forcing climate-driven migration to cities, creating long-term challenges.
 
----
-
-### Personal Background
-
-I was born and raised in India—mostly in Ranchi (widely known as MS Dhoni’s hometown) and Roorkee, where I completed my undergraduate degree in Civil Engineering from the Indian Institute of Technology (IIT Roorkee). My early exposure to both nature and infrastructure shaped my appreciation for the intersection of environment and design.
-
-Outside of research, I am passionate about music and cartography. I’ve spent countless hours exploring Earth through satellite images, whether on Google Earth or during flights—captivated by the beauty of coastlines, cityscapes, and river bends. Over time, I’ve developed a near-intuitive ability to recognize cities by their road networks, night lights, and geographic features—even in raw satellite imagery.
-
----
-
-### Looking Ahead
-
-At NYU and beyond, I aim to continue unraveling the complexity of urban climate systems through interdisciplinary research, education, and community engagement. My long-term vision is to help design sustainable, inclusive cities that can withstand the changing climate while improving quality of life for all their inhabitants.
+The path to building *climate-resilient cities* lies in deepening our understanding of the intricate interdependencies and feedbacks between urban areas and their microclimates. To this end, my research leverages techniques from complexity science, data science, numerical weather modeling, and remote sensing to unravel these interactions and inform urban adaptation strategies.
 
 
 <figure class="align-center">
