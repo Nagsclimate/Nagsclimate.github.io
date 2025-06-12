@@ -25,7 +25,7 @@ excerpt: >
   My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization at multiple scales from local neighborhoods to global systems. my aim is deepen understanding of the complex challenges facing our increasingly urbanized world and providing the solutions though the policy actions.
   <br>
 feature_row:
-  - image_path: /assets/logos/Nags_climate1.jpg
+  - image_path: /assets/logos/Nags.jpg
   - title: "Doctoral Researcher"
     Marie Curie Actions Cofund Fellow, <br>
     Department of Physics and Astronomy, <br>
