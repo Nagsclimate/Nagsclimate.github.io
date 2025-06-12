@@ -27,7 +27,7 @@ excerpt: >
 feature_row:
   - image_path: /assets/logos/Nags.jpg
   - title: "Doctoral Researcher"
-    Marie Curie Actions Cofund Fellow, <br>
+    excerpt: "(Marie Curie Actions Cofund Fellow) <br>
     Department of Physics and Astronomy, <br>
     Future Earth,Climate Change and Societal Challenges, <br>
     University of Bologna​, Italy"
