@@ -5,7 +5,7 @@ classes: wide
 title: ""
 header:
   overlay_image: assets/city-pics/Bologna.jpeg
-  overlay_filter: 0.7
+  overlay_filter: 0.5
   caption: "Photo credit: [**Nagssh**](https://unsplash.com)"
   actions:
     - label: "Learn More"
@@ -15,60 +15,59 @@ header:
 ---
 
 <style>
-.hero-container {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  margin: 2rem auto;
+.hero-overlay {
+  position: absolute;
+  top: 100px; /* adjust as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 90%;
   max-width: 1100px;
-  padding: 1rem;
-  background-color: rgba(255, 255, 255, 0.96);
+  background: rgba(255, 255, 255, 0.85);
+  padding: 2rem;
   border-radius: 12px;
-  box-shadow: 0 8px 16px rgba(0,0,0,0.15);
+  display: flex;
+  align-items: center;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+  z-index: 10;
 }
 
-.hero-image {
-  flex: 0 0 250px;
-  margin-right: 2rem;
-}
-
-.hero-image img {
-  width: 100%;
+.hero-overlay img {
+  width: 220px;
   border-radius: 10px;
+  margin-right: 2rem;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
 .hero-text {
   flex: 1;
   font-size: 1rem;
+  color: #222;
   line-height: 1.6;
 }
 
 @media (max-width: 768px) {
-  .hero-container {
+  .hero-overlay {
     flex-direction: column;
     text-align: center;
+    padding: 1.5rem;
   }
-  .hero-image {
+
+  .hero-overlay img {
     margin: 0 0 1.5rem 0;
+    width: 160px;
   }
 }
 </style>
 
-<div class="hero-container">
-  <div class="hero-image">
-    <img src="/assets/logos/Nags.jpg" alt="Nagaraju Gaddam">
-  </div>
+<div class="hero-overlay">
+  <img src="/assets/logos/Nags.jpg" alt="Nagaraju Gaddam">
   <div class="hero-text">
-    <h2>Greetings from Gaddam!</h2>
+    <h2>Welcome to Nags Climate</h2>
     <p>
-      I’m passionate about understanding how cities shape and are shaped by our climate and environment. Cities extend their influence far beyond their physical boundaries, impacting ecosystems, climate, and societies across the globe.
+      I’m passionate about exploring how cities and climate intersect. Urban environments are at the forefront of some of the world’s most pressing challenges—from heatwaves to flooding, and climate inequality.
     </p>
     <p>
-      My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization at multiple scales—from local neighborhoods to global systems. My aim is to deepen understanding of the complex challenges facing our increasingly urbanized world and provide actionable solutions through science-informed policy.
+      My research blends data science, atmospheric modeling, and remote sensing to uncover how cities function under climate stress, and how we can build more resilient, just urban futures.
     </p>
   </div>
 </div>
-
-{% include feature_row %}
