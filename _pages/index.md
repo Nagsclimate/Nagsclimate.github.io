@@ -9,114 +9,99 @@ header:
   caption: "Photo credit: [**Nagssh**](https://unsplash.com)"
 ---
 <style>
-.hero-overlay {
+.home-overlay {
   position: absolute;
   top: 15%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 90%;
-  max-width: 1100px;
+  left: 10%;
+  right: 10%;
   display: flex;
   align-items: center;
+  justify-content: space-between;
   color: white;
-  z-index: 10;
-  font-family: 'Segoe UI', sans-serif;
+  z-index: 100;
+  font-family: "Segoe UI", sans-serif;
 }
 
-.hero-overlay img {
-  width: 180px;
-  height: auto;
+.home-overlay .photo {
+  flex: 1;
+  padding-right: 2rem;
+}
+
+.home-overlay .photo img {
+  width: 220px;
   border-radius: 12px;
-  margin-right: 2.5rem;
-  box-shadow: 0 4px 16px rgba(0,0,0,0.4);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
 }
 
-.hero-text h1 {
-  font-size: 2.4rem;
+.home-overlay .text {
+  flex: 2;
+  max-width: 600px;
+}
+
+.home-overlay .text h1 {
+  font-size: 2.5rem;
   margin-bottom: 1rem;
 }
 
-.hero-text p {
-  font-size: 1.15rem;
+.home-overlay .text p {
+  font-size: 1.1rem;
   line-height: 1.6;
-  max-width: 600px;
   margin-bottom: 1.5rem;
 }
 
-.hero-buttons a {
-  display: inline-block;
+.home-overlay .buttons a {
   margin-right: 1rem;
-  padding: 0.6rem 1.3rem;
-  border-radius: 6px;
-  border: 1px solid white;
+  padding: 0.6rem 1.2rem;
+  border: 2px solid white;
   color: white;
   text-decoration: none;
-  font-weight: bold;
-  background: rgba(255,255,255,0.05);
-  transition: 0.3s ease;
+  border-radius: 5px;
+  transition: 0.3s;
 }
 
-.hero-buttons a:hover {
+.home-overlay .buttons a:hover {
   background: white;
   color: black;
 }
 
-.scroll-down {
-  position: absolute;
-  bottom: 20px;
-  left: 50%;
-  transform: translateX(-50%);
-  color: white;
-  font-size: 1rem;
-  animation: bounce 2s infinite;
-  z-index: 10;
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateX(-50%) translateY(0); }
-  50% { transform: translateX(-50%) translateY(-10px); }
-}
-
 @media (max-width: 768px) {
-  .hero-overlay {
+  .home-overlay {
     flex-direction: column;
-    top: 10%;
     text-align: center;
+    top: 10%;
   }
 
-  .hero-overlay img {
-    margin: 0 0 1.5rem 0;
-    width: 140px;
+  .home-overlay .photo {
+    padding-right: 0;
+    margin-bottom: 1.5rem;
   }
 
-  .hero-text h1 {
-    font-size: 1.9rem;
+  .home-overlay .photo img {
+    width: 160px;
   }
 
-  .hero-text p {
-    font-size: 1.05rem;
+  .home-overlay .text h1 {
+    font-size: 1.8rem;
   }
 
-  .hero-buttons a {
-    margin-bottom: 0.5rem;
+  .home-overlay .text p {
+    font-size: 1rem;
   }
 }
 </style>
 
-<div class="hero-overlay">
-  <img src="/assets/logos/Nags.jpg" alt="Nags Gaddam">
-  <div class="hero-text">
+<div class="home-overlay">
+  <div class="photo">
+    <img src="/assets/logos/Nags.jpg" alt="Nagaraju Gaddam">
+  </div>
+  <div class="text">
     <h1>Welcome to Nags Climate</h1>
     <p>
-      I explore how cities shape and are shaped by climate extremes. By blending science, technology, and policy, my goal is to build data-driven, resilient, and just urban futures in a warming world.
+      I work at the intersection of cities and climate—exploring how urban environments interact with extreme weather and social vulnerability. Using data, models, and science, I aim to help shape just and resilient cities for a warming world.
     </p>
-    <div class="hero-buttons">
+    <div class="buttons">
       <a href="/about/">Learn More</a>
       <a href="/join-us/">Join Us</a>
     </div>
   </div>
-</div>
-
-<div class="scroll-down">
-  ↓ Scroll to explore
 </div>
