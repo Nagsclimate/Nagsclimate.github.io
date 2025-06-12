@@ -1,107 +1,71 @@
 ---
 layout: splash
 permalink: /
-title: ""
 classes: wide
+title: "Nags Climate"
 header:
   overlay_image: assets/city-pics/Bologna.jpeg
-  overlay_filter: 0.55
+  overlay_filter: 0.7
   caption: "Photo credit: [**Nagssh**](https://unsplash.com)"
+  actions:
+    - label: "Learn More"
+      url: "https://nagsclimate.github.io/about/"
+    - label: "Join us"
+      url: "https://nagsclimate.github.io/join-us/"
+
+excerpt: >
+  <br>
+  Greetings from the Gaddam!
+  <br>
+  
+  <br> 
+  I’m passionate about understanding how cities shape and are shaped by our climate and environment. Cities extend their influence far beyond their physical boundaries, impacting ecosystems, climate, and societies across the globe.
+  
+  <br>
+  My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization at multiple scales from local neighborhoods to global systems. my aim is deepen understanding of the complex challenges facing our increasingly urbanized world and providing the solutions though the policy actions.
+  <br>
+feature_row:
+  - image_path: /assets/logos/Nags.jpg
+  - title: "Doctoral Researcher"
+    excerpt: "(Marie Curie Actions Cofund Fellow) <br>
+    Department of Physics and Astronomy, <br>
+    Future Earth,Climate Change and Societal Challenges, <br>
+    University of Bologna​, Italy"
+  - image_path: /assets/logos/unibo.png
 ---
-<style>
-.home-overlay {
-  position: absolute;
-  top: 15%;
-  left: 10%;
-  right: 10%;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  color: white;
-  z-index: 100;
-  font-family: "Segoe UI", sans-serif;
-}
 
-.home-overlay .photo {
-  flex: 1;
-  padding-right: 2rem;
-}
 
-.home-overlay .photo img {
-  width: 220px;
-  border-radius: 12px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.4);
-}
+{% include feature_row %}
 
-.home-overlay .text {
-  flex: 2;
-  max-width: 600px;
-}
 
-.home-overlay .text h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-}
+<!--
+### Prof. Anamika Shreevastava
+Assistant Professor
 
-.home-overlay .text p {
-  font-size: 1.1rem;
-  line-height: 1.6;
-  margin-bottom: 1.5rem;
-}
+Dept. of Mechanical & Aerospace Engineering, <br>
+and Center for Urban Science and Progress, <br>
+Tandon School of Engineering, <br>
+New York University​
 
-.home-overlay .buttons a {
-  margin-right: 1rem;
-  padding: 0.6rem 1.2rem;
-  border: 2px solid white;
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
-  transition: 0.3s;
-}
+370 Jay Street, 13th Floor, <br>
+Brooklyn, NY 11201
+url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
+btn_class: "btn--secondary"
+btn_label: "Link to New York University profile"
 
-.home-overlay .buttons a:hover {
-  background: white;
-  color: black;
-}
-
-@media (max-width: 768px) {
-  .home-overlay {
-    flex-direction: column;
-    text-align: center;
-    top: 10%;
-  }
-
-  .home-overlay .photo {
-    padding-right: 0;
-    margin-bottom: 1.5rem;
-  }
-
-  .home-overlay .photo img {
-    width: 160px;
-  }
-
-  .home-overlay .text h1 {
-    font-size: 1.8rem;
-  }
-
-  .home-overlay .text p {
-    font-size: 1rem;
-  }
-}
-</style>
-
-<div class="home-overlay">
-  <div class="photo">
-    <img src="/assets/logos/Nags.jpg" alt="Nagaraju Gaddam">
-  </div>
-  <div class="text">
-    <h1>Welcome to Nags Climate</h1>
-    <p>
-      I work at the intersection of cities and climate—exploring how urban environments interact with extreme weather and social vulnerability. Using data, models, and science, I aim to help shape just and resilient cities for a warming world.
-    </p>
-    <div class="buttons">
-      <a href="/about/">Learn More</a>
-      <a href="/join-us/">Join Us</a>
-    </div>
-  </div>
-</div>
+<!--
+- image_path: /assets/images/Networks.jpg
+  alt: "Projects"
+  title: "Other Projects"
+  excerpt: "Assorted collection of some of my scholarly projects that aren't published"
+  url: "/projects/"
+  btn_class: "btn--primary"
+  btn_label: "Projects"
+- image_path: /assets/images/Stat_Wars.png
+  alt: "Resources"
+  title: "Resources"
+  excerpt: "Dive in for links to useful tools and online documents that I have curated over the years"
+  url: "/resources/"
+  btn_class: "btn--primary"
+  btn_label: "Resources"
+  -->
