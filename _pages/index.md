@@ -15,21 +15,15 @@ header:
 
 excerpt: >
   <br>
-  Welcome to the Nags Climate!
+  Greetings from the Nags Climate!
   <br>
   
   <br> 
-  I’m passionate about understanding how cities shape and are shaped by our climate and environment.
+  I’m passionate about understanding how cities shape and are shaped by our climate and environment. Cities extend their influence far beyond their physical boundaries, impacting ecosystems, climate, and societies across the globe.
+  
   <br>
-  <br>
-  Cities extend their influence far beyond their physical boundaries, impacting ecosystems, climate, and societies across the globe.
-  <br>
-  My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization
-  at multiple scales from local neighborhoods to global systems. This work aims to deepen our understanding of the complex challenges
+  My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization at multiple scales from local neighborhoods to global systems. This work aims to deepen our understanding of the complex challenges
   facing our increasingly urbanized world.
-  <br>
-  Whether you’re a student, researcher, policymaker, or urban enthusiast—thank you for visiting.  
-  I hope you find insights here that spark curiosity, collaboration, and meaningful action.
   <br>
 feature_row:
   - image_path: /assets/logos/Nags_climate1.jpg
