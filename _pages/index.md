@@ -15,23 +15,22 @@ header:
 
 excerpt: >
   <br>
-  Greetings from the Nags Climate!
+  Greetings from the Gaddam!
   <br>
   
   <br> 
   I’m passionate about understanding how cities shape and are shaped by our climate and environment. Cities extend their influence far beyond their physical boundaries, impacting ecosystems, climate, and societies across the globe.
   
   <br>
-  My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization at multiple scales from local neighborhoods to global systems. This work aims to deepen our understanding of the complex challenges
-  facing our increasingly urbanized world.
+  My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization at multiple scales from local neighborhoods to global systems. my aim is deepen understanding of the complex challenges facing our increasingly urbanized world and providing the solutions though the policy actions.
   <br>
 feature_row:
   - image_path: /assets/logos/Nags_climate1.jpg
   - title: "Doctoral Researcher"
-    excerpt: "(Marie Curie Actions Cofund Fellow) <br>
-    Deptment of Physics and Astronomy, <br>
+    Marie Curie Actions Cofund Fellow, <br>
+    Department of Physics and Astronomy, <br>
     Future Earth,Climate Change and Societal Challenges, <br>
-    University of Bologna​"
+    University of Bologna​, Italy"
   - image_path: /assets/logos/unibo.png
 ---
 
