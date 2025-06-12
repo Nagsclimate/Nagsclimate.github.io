@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 classes: wide
-title: "The Urban Planet Lab"
+title: "Nags Climate
 header:
   overlay_image: assets/city-pics/City-Sun.jpg
   overlay_filter: 0.7
