@@ -3,41 +3,74 @@ layout: splash
 permalink: /
 classes: wide
 title: "Nags Climate"
-
 header:
   overlay_image: assets/city-pics/Bologna.jpeg
   overlay_filter: 0.7
-  caption: "Photo credit: [**Nags**](https://unsplash.com)"
+  caption: "Photo credit: [**Nagssh**](https://unsplash.com)"
   actions:
     - label: "Learn More"
       url: "https://nagsclimate.github.io/about/"
     - label: "Join us"
-      url: "https://nagsclimate.github.io/join-us/"
+      url: "hhttps://nagsclimate.github.io/join-us/"
 
 excerpt: >
-  **Welcome to Nags Climate!**
-
-  I’m passionate about understanding how cities shape—and are shaped by—our climate and environment.
+  <br>
+  Hello!
+  <br>
+  
+  I’m passionate about understanding how cities shape and are shaped by our climate and environment.
 
   Cities extend their influence far beyond their physical boundaries, impacting ecosystems, climate, and societies across the globe.
 
-  My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization  
-  at multiple scales—from local neighborhoods to global systems. This work aims to deepen our understanding of the complex challenges  
+  My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization
+  at multiple scales from local neighborhoods to global systems. This work aims to deepen our understanding of the complex challenges
   facing our increasingly urbanized world.
 
   Whether you’re a student, researcher, policymaker, or urban enthusiast—thank you for visiting.  
   I hope you find insights here that spark curiosity, collaboration, and meaningful action.
-
+  <br>
 feature_row:
-  - image_path: /assets/logos/LOGO.png
-  - title: "Assistant Professor"
-    excerpt: >
-      *(Starting Fall 2025)*  
-      Dept. of Mechanical & Aerospace Engineering,  
-      and Center for Urban Science and Progress,  
-      Tandon School of Engineering,  
-      New York University​
-  - image_path: /assets/logos/NYU_tandon_wide.png
+  - image_path: /assets/logos/Nags_climate1.jpg
+  - title: "Doctoral Researcher"
+    excerpt: "(Marie Curie Actions Cofund Fellow) <br>
+    Deptment of Physics and Astronomy, <br>
+    Future Earth,Climate Change and Societal Challenges, <br>
+    University of Bologna​"
+  - image_path: /assets/logos/unibo.png
 ---
 
+
 {% include feature_row %}
+
+
+<!--
+### Prof. Anamika Shreevastava
+Assistant Professor
+
+Dept. of Mechanical & Aerospace Engineering, <br>
+and Center for Urban Science and Progress, <br>
+Tandon School of Engineering, <br>
+New York University​
+
+370 Jay Street, 13th Floor, <br>
+Brooklyn, NY 11201
+url: "https://engineering.nyu.edu/faculty/anamika-shreevastava"
+btn_class: "btn--secondary"
+btn_label: "Link to New York University profile"
+
+<!--
+- image_path: /assets/images/Networks.jpg
+  alt: "Projects"
+  title: "Other Projects"
+  excerpt: "Assorted collection of some of my scholarly projects that aren't published"
+  url: "/projects/"
+  btn_class: "btn--primary"
+  btn_label: "Projects"
+- image_path: /assets/images/Stat_Wars.png
+  alt: "Resources"
+  title: "Resources"
+  excerpt: "Dive in for links to useful tools and online documents that I have curated over the years"
+  url: "/resources/"
+  btn_class: "btn--primary"
+  btn_label: "Resources"
+  -->
