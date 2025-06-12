@@ -11,7 +11,7 @@ header:
     - label: "Learn More"
       url: "https://nagsclimate.github.io/about/"
     - label: "Join us"
-      url: "hhttps://nagsclimate.github.io/join-us/"
+      url: "https://nagsclimate.github.io/join-us/"
 
 excerpt: >
   <br>
