@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 classes: wide
-title: "Nags Climate
+title: "Nags Climate"
 header:
   overlay_image: assets/city-pics/City-Sun.jpg
   overlay_filter: 0.7
