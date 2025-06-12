@@ -5,19 +5,14 @@ classes: wide
 title: ""
 header:
   overlay_image: assets/city-pics/Bologna.jpeg
-  overlay_filter: 0.5
+  overlay_filter: 0.6
   caption: "Photo credit: [**Nagssh**](https://unsplash.com)"
-  actions:
-    - label: "Learn More"
-      url: "https://nagsclimate.github.io/about/"
-    - label: "Join us"
-      url: "https://nagsclimate.github.io/join-us/"
 ---
 
 <style>
-.hero-overlay {
+.hero-container {
   position: absolute;
-  top: 100px; /* adjust as needed */
+  top: 120px; /* adjust for vertical position */
   left: 50%;
   transform: translateX(-50%);
   width: 90%;
@@ -27,47 +22,84 @@ header:
   border-radius: 12px;
   display: flex;
   align-items: center;
+  justify-content: space-between;
   box-shadow: 0 10px 30px rgba(0,0,0,0.2);
   z-index: 10;
 }
 
-.hero-overlay img {
+.hero-image {
   width: 220px;
   border-radius: 10px;
-  margin-right: 2rem;
   box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  flex-shrink: 0;
 }
 
 .hero-text {
   flex: 1;
-  font-size: 1rem;
+  margin-left: 2rem;
   color: #222;
-  line-height: 1.6;
+}
+
+.hero-text h2 {
+  margin-top: 0;
+  font-size: 1.8rem;
+}
+
+.hero-buttons {
+  margin-top: 1rem;
+}
+
+.hero-buttons a {
+  display: inline-block;
+  margin-right: 1rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #007ACC;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+  transition: background 0.3s ease;
+}
+
+.hero-buttons a:hover {
+  background-color: #005fa3;
 }
 
 @media (max-width: 768px) {
-  .hero-overlay {
+  .hero-container {
     flex-direction: column;
     text-align: center;
     padding: 1.5rem;
   }
 
-  .hero-overlay img {
-    margin: 0 0 1.5rem 0;
+  .hero-image {
+    margin-bottom: 1rem;
     width: 160px;
+  }
+
+  .hero-text {
+    margin-left: 0;
+  }
+
+  .hero-buttons a {
+    margin-bottom: 0.5rem;
   }
 }
 </style>
 
-<div class="hero-overlay">
-  <img src="/assets/logos/Nags.jpg" alt="Nagaraju Gaddam">
+<div class="hero-container">
+  <img class="hero-image" src="/assets/logos/Nags.jpg" alt="Nagaraju Gaddam">
   <div class="hero-text">
     <h2>Welcome to Nags Climate</h2>
     <p>
-      I’m passionate about exploring how cities and climate intersect. Urban environments are at the forefront of some of the world’s most pressing challenges—from heatwaves to flooding, and climate inequality.
+      Cities are the heartbeat of our climate future. My work explores how urban environments interact with extreme weather—like heatwaves and floods—to build data-driven, equitable, and resilient urban systems.
     </p>
     <p>
-      My research blends data science, atmospheric modeling, and remote sensing to uncover how cities function under climate stress, and how we can build more resilient, just urban futures.
+      Using modeling, remote sensing, and science for policy, I aim to bridge knowledge and action across research and society.
     </p>
+    <div class="hero-buttons">
+      <a href="https://nagsclimate.github.io/about/">Learn More</a>
+      <a href="https://nagsclimate.github.io/join-us/">Join Us</a>
+    </div>
   </div>
 </div>
