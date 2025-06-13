@@ -23,8 +23,8 @@ excerpt: >
 
 
 feature_row:
-  - image_path: /assets/images/Nag.jpg
-  - title: "Mr.Nags Gaddam"
+  - image_path: /assets/images/myself.jpg
+  - title: "Mr. Nags Gaddam"
     excerpt: "**Marie Curie Doctoral Researcher** <br>
     Department of Physics and Astronomy, <br>
     Future Earth,Climate Change and Societal Challenges, <br>
