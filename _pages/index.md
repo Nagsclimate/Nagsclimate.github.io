@@ -30,7 +30,6 @@ feature_row:
     Future Earth,Climate Change and Societal Challenges, <br>
     University of Bologna​, Italy"
   - image_path: /assets/logos/unibo.png
-  - image_path: /assets/logos/unibo.png
 ---
 
 {% include feature_row %}
