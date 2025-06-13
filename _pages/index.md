@@ -16,15 +16,15 @@ header:
 
 excerpt: >
   <br><br>
-  Ciao, Welcome to Nags Climate!
+  Ciao, Welcome to the Nags Climate!
   <br><br>
-  I’m a researcher and entrepreneur passionate about urban climate science and data innovation. With a background in Computer Science, Climate Sciences, and Modeling, I work to turn complex data into insights that help build resilient and sustainable cities. Explore my projects and ventures at the intersection of science, policy, and community-driven innovation.
+  I’m Nagaraju Gaddam (Nags), researcher and entrepreneur passionate about urban climate science and data innovation. With a background in Computer Science, Climate Sciences, and Modeling, I work to turn complex data into insights that help build resilient and sustainable cities. Explore my projects and ventures at the intersection of science, policy, and community-driven innovation.
   <br><br>
 
 
 feature_row:
   - image_path: /assets/images/Nag.jpg
-  - title: "Mr.Nagaraju Gaddam (Nags)"
+  - title: "Mr.Nags Gaddam"
     excerpt: "**Marie Curie Doctoral Researcher** <br>
     Department of Physics and Astronomy, <br>
     Future Earth,Climate Change and Societal Challenges, <br>
