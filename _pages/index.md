@@ -5,7 +5,7 @@ classes: wide
 title: ""
 
 header:
-  overlay_image: /assets/images/Nag.jpg
+  overlay_image: /assets/city-pics/Bologna.jpeg
   overlay_filter: 0.7
   caption: "Photo credit: [**Nags**](https://nagsclimate.github.io)"
   actions:
@@ -35,7 +35,6 @@ feature_row:
     University of Bologna​, Italy"
   - image_path: /assets/logos/unibo.png
 ---
-
 
 {% include feature_row %}
 
