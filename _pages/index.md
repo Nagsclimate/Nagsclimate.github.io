@@ -6,7 +6,7 @@ title: "Nags Climate"
 header:
   overlay_image: assets/city-pics/self.jpg
   overlay_filter: 0.7
-  caption: "Photo credit: [**Nagssh**](https://unsplash.com)"
+  caption: "Photo credit: [**Nags**](https://nagsclimate.github.io)"
   actions:
     - label: "Learn More"
       url: "https://nagsclimate.github.io/about/"
