@@ -19,7 +19,7 @@ I’m enrolled in the interdisciplinary Ph.D. program, [**Future Earth, Climate 
 
 > **Numerical downscaling at the local microscale for the evaluation of climate change adaptation and mitigation measures**
 
-I'm extremely thankful for the support of the [**MSCA Cofund Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/), and fortunate to be working under the mentorship of [Prof. Silvana Di Sabatino](https://engineering.purdue.edu/CE/People/view_person?resource_id=2131), Dr. Carlo Cintolesi, and Dr. Paolo Ruggeri.
+I'm extremely thankful for the support of the [**MSCA Cofund Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/), and fortunate to be working under the mentorship of [Prof. Silvana Di Sabatino](hhttps://www.unibo.it/sitoweb/silvana.disabatino), [Dr. Carlo Cintolesi](https://sites.google.com/view/carlo-cintolesi/), and [Dr. Paolo Ruggeri](https://www.unibo.it/sitoweb/paolo.ruggieri2).
 
 ---
 
@@ -33,7 +33,7 @@ During my undergraduate years, I studied **Computer Science** at **Mahatma Gandh
 
 ### Personal Background
 
-I was born and raised in **Hyderabad**, Telangana — fondly known as the [**Biryani City of India**](https://en.wikipedia.org/wiki/Hyderabadi_biryani). Thanks to my parents' love of travel, I’ve explored many corners of India — an experience that’s shaped my cultural appreciation and curiosity.
+I was born and raised in **Hyderabad**, Telangana  fondly known as the [**Biryani City of India**](https://en.wikipedia.org/wiki/Hyderabadi_biryani). Thanks to my parents' love of travel, I’ve explored many corners of India — an experience that’s shaped my cultural appreciation and curiosity.
 
 Over the years, I’ve had the chance to travel globally for **workshops**, **collaborations**, and **conferences**. These journeys have deeply influenced my outlook on research, climate action, and society.
 
