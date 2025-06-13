@@ -26,11 +26,11 @@ feature_row:
   - image_path: /assets/images/myself.jpg
   - title: "Mr. Nags Gaddam"
     excerpt: "**Marie Curie Doctoral Researcher** <br>
-    Department of Physics and Astronomy <br>
-    Future Earth, Climate Change and Societal Challenges <br>
-    University of Bologna, Italy <br><br>
+    Department of Physics and Astronomy, <br>
+    Future Earth, Climate Change and Societal Challenges, <br>
+    University of Bologna, Italy. <br>
     <strong>Email:</strong> <a href='mailto:nagaraju.gaddam2@unibo.it'>nagaraju.gaddam2@unibo.it</a> <br>
-    <strong>Mobile:</strong> +39 351 381 2079 (Italy), +91 95024 16920 (India)"
+    <strong>Mobile:</strong> +39 351 381 2079 (Italy)"
   - image_path: /assets/logos/Picture3.png
 
 ---
