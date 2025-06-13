@@ -8,21 +8,23 @@ header:
   overlay_filter: 0.7
   caption: "Photo credit: [**Nags**](https://nagsclimate.github.io)"
   actions:
-    - label: "Learn More"
+    - label: "🔗 Learn more about my journey"
       url: "https://nagsclimate.github.io/about/"
-    - label: "Join us"
+    - label: "📩 Contact me"
       url: "https://nagsclimate.github.io/join-us/"
 
 excerpt: >
   <br>
-  Greetings from the Gaddam!
+  👋 Welcome!
   <br>
   
   <br> 
-  I’m passionate about understanding how cities shape and are shaped by our climate and environment. Cities extend their influence far beyond their physical boundaries, impacting ecosystems, climate, and societies across the globe.
+  I’m a passionate Doctoral researcher and practitioner dedicated to understanding and solving the complex challenges of urban climate change. With a background in Computer Science, atmospheric science, weather modeling, and data-driven decision support systems, I focus on improving urban resilience through science, innovation, and community-centered solutions.
   
   <br>
-  My research focuses on how urban environmental dynamics interact with extreme weather events and the broader impacts of urbanization at multiple scales from local neighborhoods to global systems. my aim is deepen understanding of the complex challenges facing our increasingly urbanized world and providing the solutions though the policy actions.
+  My mission is to bridge the gap between science and society transforming data into action. 
+  
+  Explore my work, research initiatives, and collaborative projects shaping the future of sustainable cities.
   <br>
 feature_row:
   - image_path: /assets/logos/Nags.jpg
