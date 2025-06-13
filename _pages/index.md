@@ -5,7 +5,7 @@ classes: wide
 title: ""
 
 header:
-  overlay_image: /assets/city-pics/Bologna.jpeg
+  overlay_image: /assets/city-pics/Bologna1.jpeg
   overlay_filter: 0.7
   caption: "Photo credit: [**Nags**](https://nagsclimate.github.io)"
   actions:
