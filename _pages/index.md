@@ -4,7 +4,7 @@ permalink: /
 classes: wide
 title: "Nags Climate"
 header:
-  overlay_image: /assets/city-pics/Self.jpg
+  overlay_image: /assets/city-pics/self1.jpg
   overlay_filter: 0.7
   caption: "Photo credit: [**Nags**](https://nagsclimate.github.io)"
   actions:
