@@ -1,59 +1,34 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Nags Climate
 email: gaddamnagaraju112@gmail.com
-description: Research group focused on "urban complexity and resilience" based in New York University
- # this means to ignore newlines until "baseurl:"
-  # Write an awesome description for your new site here. It will appear in your document head meta (for
-  # Google search results) and in your feed.xml site description.
+description: >
+  Personal website of Nagaraju Gaddam — Urban Climate Scientist, Doctoral Researcher, and Entrepreneur. 
+  Exploring urban weather extremes, resilience, and data-driven climate innovation for sustainable cities.
+
 twitter_username: nagstweet
 github_username: NagsClimate
 minimal_mistakes_skin: contrast
 search: true
 
+# Branding
 logo: "/assets/logos/ng_logo.jpg"
-masthead_title: " "
-
+masthead_title: "Nags Climate"
 
 # Build settings
 markdown: kramdown
-#emote_theme: mmistakes/minimal-mistakes
 remote_theme: mmistakes/minimal-mistakes@4.17.2
-# Outputting
-permalink: /:categories/:title/
-paginate: 20 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+# Permalink structure
+permalink: /:categories/:title/
+paginate: 20
+paginate_path: /page:num/
+timezone: Europe/Rome
+
+# Include folders
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -62,22 +37,22 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Author details
 author:
-  name   : "Nagaraju Gaddam"
-  avatar : "/assets/images/Display pic.JPG"
-  bio    : "Doctoral Researcher <br>
-            Dept of Physics and Astronomy <br>
-            University of Bologna, Bologna"
-  location: "Bologna, Emila Romgna, IT"
+  name: "Nagaraju Gaddam"
+  avatar: "/assets/images/Display pic.JPG"
+  bio: >
+    Urban Climate Scientist | Doctoral Researcher at University of Bologna <br>
+    Exploring climate resilience, extreme weather, and data-driven solutions for cities.
+  location: "Bologna, Emilia-Romagna, Italy"
   links:
-
     - label: "Email"
       icon: "far fa-fw fa-paper-plane"
       url: "mailto:nagaraju.gaddam2@unibo.it"
 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Nagsclimate"
+      url: "https://github.com/NagsClimate"
 
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -93,19 +68,20 @@ author:
 
     - label: "Download CV"
       icon: "far fa-fw fa-file-pdf"
-      url: "/assets/files/Anamika_CV_2024.pdf"
+      url: "/assets/files/Nagaraju_Gaddam_CV_2024.pdf"
 
-
+# Footer links
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/nagstweet"
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/NagsClimate"
 
-# Collections --> This is very important for Projects page
+# Collections (e.g., for projects, portfolio pages)
 collections:
   projects:
     output: true
@@ -114,9 +90,8 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
+# Default values for posts and pages
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -127,7 +102,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+
   - scope:
       path: "_pages"
       type: pages
@@ -135,6 +110,7 @@ defaults:
       layout: single
       author_profile: true
 
+# Archives
 category_archive:
   type: liquid
   path: /categories/
