@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 classes: wide
-title: "Nags Climate"
+title: ""
 
 header:
   overlay_image: /assets/city-pics/self1.jpg
@@ -18,13 +18,13 @@ excerpt: >
   <br><br>
   👋 Welcome!
   <br><br>
-  I’m **Nagaraju Gaddam**, a passionate doctoral researcher and entrepreneur working at the intersection of urban climate science and data innovation. With a strong background in Computer Science, Atmospheric Sciences, and Weather Modeling, I specialize in developing real-time forecasting tools, climate risk frameworks, and decision support systems for sustainable urban futures.
+  I’m **Nagaraju Gaddam**, a passionate researcher and entrepreneur working at the intersection of urban climate science and data innovation. With a strong background in Computer Science, Atmospheric Sciences, and Weather Modeling, I specialize in developing real-time forecasting tools, climate risk frameworks, and decision support systems for sustainable urban futures.
   <br><br>
   My work focuses on transforming complex environmental data into actionable insights that help cities become more resilient, inclusive, and adaptive to climate change. I believe in bridging the gap between science, policy, and society through open knowledge, collaboration, and community-driven innovation.
   <br><br>
   Explore my projects, research initiatives, and climate-tech ventures shaping tomorrow’s sustainable cities.
   <br><br>
----
+
 
 feature_row:
   - image_path: /assets/logos/Nags.jpg
