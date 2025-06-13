@@ -16,16 +16,16 @@ header:
 
 excerpt: >
   <br><br>
-  👋 Welcome!
+  Ciao, Welcome to Nags Climate!
   <br><br>
-  I’m a researcher and entrepreneur passionate about urban climate science and data innovation. With a background in Computer Science, Atmospheric Sciences, and Modeling, I work to turn complex data into insights that help build resilient and sustainable cities. Explore my projects and ventures at the intersection of science, policy, and community-driven innovation.
+  I’m a researcher and entrepreneur passionate about urban climate science and data innovation. With a background in Computer Science, Climate Sciences, and Modeling, I work to turn complex data into insights that help build resilient and sustainable cities. Explore my projects and ventures at the intersection of science, policy, and community-driven innovation.
   <br><br>
 
 
 feature_row:
   - image_path: /assets/logos/Nags.jpg
-  - title: "Doctoral Researcher"
-    excerpt: "(Marie Curie Actions Cofund Fellow) <br>
+  - title: "Mr. Nagaraju Gaddam (Nags)"
+    excerpt: "**Marie Curie Doctoral Researcher** <br>
     Department of Physics and Astronomy, <br>
     Future Earth,Climate Change and Societal Challenges, <br>
     University of Bologna​, Italy"
