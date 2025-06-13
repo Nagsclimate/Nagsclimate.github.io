@@ -1,5 +1,5 @@
 main:
-  - title: "about"
+  - title: "About"
     url: /about/
   - title: "Research"
     url: /research/
@@ -9,3 +9,12 @@ main:
     url: /resources/
   - title: "Join us"
     url: /join-us/
+  - title: "Personal"
+    url: /personal/
+    children:
+      - title: "Podcast"
+        url: /personal/podcast/
+      - title: "Poetry"
+        url: /personal/poetry/
+      - title: "Photography"
+        url: /personal/photography/
