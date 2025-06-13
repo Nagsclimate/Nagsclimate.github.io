@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 classes: wide
-title: ""
+#title: ""
 
 header:
   overlay_image: /assets/city-pics/Bologna2.jpg
