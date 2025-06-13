@@ -29,7 +29,7 @@ feature_row:
     Department of Physics and Astronomy, <br>
     Future Earth,Climate Change and Societal Challenges, <br>
     University of Bologna​, Italy"
-  - image_path: /assets/logos/unibo.png
+  - image_path: /assets/logos/Presentation1.png
 ---
 
 {% include feature_row %}
