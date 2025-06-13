@@ -9,10 +9,10 @@ header:
   overlay_filter: 0.7
   caption: "Photo credit: [**Nags**](https://nagsclimate.github.io)"
   actions:
-    - label: "🔗 Learn more about my journey"
-      url: "https://nagsclimate.github.io/about/"
-    - label: "📩 Contact me"
-      url: "https://nagsclimate.github.io/join-us/"
+   # - label: "🔗 Learn more about my journey"
+   #   url: "https://nagsclimate.github.io/about/"
+   # - label: "📩 Contact me"
+   #   url: "https://nagsclimate.github.io/join-us/"
 
 excerpt: >
   <br><br>
