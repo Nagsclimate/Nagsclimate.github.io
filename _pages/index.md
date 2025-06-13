@@ -28,9 +28,13 @@ feature_row:
     excerpt: "**Marie Curie Doctoral Researcher** <br>
     Department of Physics and Astronomy <br>
     Future Earth, Climate Change and Societal Challenges <br>
-    University of Bologna, Italy <br>
-    📧 <a href='mailto:nagaraju.gaddam2@unibo.it'>nagaraju.gaddam2@unibo.it</a>"
+    University of Bologna, Italy <br><br>
+    <strong>Email:</strong> <a href='mailto:nagaraju.gaddam2@unibo.it'>nagaraju.gaddam2@unibo.it</a> <br>
+    <strong>Address:</strong> Room No. 165, Third Floor, Via Irnerio 46, Bologna <br>
+    <strong>Availability:</strong> 09:30 – 17:00 hrs <br>
+    <strong>Mobile:</strong> +39 351 381 2079 (Italy), +91 09502416920 (India)"
   - image_path: /assets/logos/Picture3.png
+
 
 ---
 
