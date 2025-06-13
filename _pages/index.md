@@ -23,12 +23,13 @@ excerpt: >
 
 
 feature_row:
-  - image_path: /assets/logos/Nags.jpg
-  - title: "Mr. Nagaraju Gaddam (Nags)"
+  - image_path: /assets/images/Nag.jpg
+  - title: "Mr.Nagaraju Gaddam (Nags)"
     excerpt: "**Marie Curie Doctoral Researcher** <br>
     Department of Physics and Astronomy, <br>
     Future Earth,Climate Change and Societal Challenges, <br>
     University of Bologna​, Italy"
+  - image_path: /assets/logos/unibo.png
   - image_path: /assets/logos/unibo.png
 ---
 
