@@ -1,23 +1,22 @@
 main:
   - title: "About"
-    url: /about/
+    url: /About/
   - title: "Research"
     url: /research/
   - title: "Publications"
-    url: /publications/
-  - title: "Creative Space"
-    url: /creative-space/
-    children:
-      - title: "City Climate Podcast"
-        url: /creative-space/city-climate-podcast/
-      - title: "Photography"
-        url: /creative-space/photography/
-      - title: "Blog & Stories"
-        url: /creative-space/blog-stories/
-      - title: "Personal Thoughts & Poetry"
-        url: /creative-space/personal-thoughts-poetry/
+    url: /papers/
   - title: "Resources"
     url: /resources/
   - title: "Contact Me"
     url: /join-us/
-  
+  - title: "Creative Space"
+    url: /Creative Space/
+    children:
+      - title: "City Climate Podcast"
+        url: /Creative Space/City-Climate-Podcast/
+      - title: "Photography"
+        url: /Creative Space/Photography/
+      - title: "Blog & Stories"
+        url: /Creative Space/Blog-Stories/
+      - title: "Personal Thoughts & Poetry"
+        url: /Creative Space/Personal-Thoughts-Poetry
