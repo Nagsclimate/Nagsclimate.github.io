@@ -5,10 +5,6 @@ main:
     url: /research/
   - title: "Publications"
     url: /publications/
-  - title: "Resources"
-    url: /resources/
-  - title: "Contact Me"
-    url: /contact/
   - title: "Creative Space"
     url: /creative-space/
     children:
@@ -20,3 +16,8 @@ main:
         url: /creative-space/blog-stories/
       - title: "Personal Thoughts & Poetry"
         url: /creative-space/personal-thoughts-poetry/
+  - title: "Resources"
+    url: /resources/
+  - title: "Contact Me"
+    url: /join-us/
+  
