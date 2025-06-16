@@ -2,8 +2,8 @@
 layout: single
 classes: wide
 sitemap: true
-collection: research
-permalink: /research/
+collection: City Climate Podcast
+permalink: /creative-space/city-climate-podcast/
 author_profile: true
 gallery:
   - url: /assets/images/RGL_homo.gif
