@@ -40,21 +40,16 @@ author_profile: true
 
 ## Conference presentations
 
-2019/12 | **Shreevastava, A.**, Bhalachandran, S., Ramamurthy, P., and Rao, P.S.C. (2019, December). Impact of heat waves on intra-urban thermal heterogeneity. *Global Environment Change. AGU Fall Meeting, San Francisco, CA.* [link](https://ui.adsabs.harvard.edu/abs/2019AGUFMGC13D..02S/abstract){: .btn .btn--inverse}
 
-2019/12 | **Shreevastava, A.**, Bhalachandran, S., McGrath, G.S., Huber, M., and Rao, P.S.C. (2019, December). The paradox of sprawl vs compact urban morphology for mitigating extreme heat in cities. *AGU Fall Meeting, San Francisco, CA.*
+2024/04 | Karthika K, Likhitha Pentakota, Nruthya K, **Nagaraju Gaddam**, Ananthula Rishika, Pradeep Mujumdar, A Qualitative and Quantitative Evaluation of the WRF Model Simulations for High Resolution Urban Rainfall Forecasting”. *EGU, Vienna, Austria*. [link](https://meetingorganizer.copernicus.org/EGU24/EGU24-14385.html){: .btn .btn--inverse} |
 
-2018/12 | **Shreevastava, A.**, Rao, P.S.C., & McGrath, G.S. (2018, December). Fractal topography of the intra-urban thermal landscape. *Nonlinear Geophysics. AGU Fall Meetings, Washington, DC.* (Oral) [link](http://adsabs.harvard.edu/abs/2018AGUFMNG41A..04S){: .btn .btn--inverse} |
+2023/12 | **Nagaraju Gaddam**, Nruthya K, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, High-Resolution Urban Rainfall and Flood Forecasts Using Improved Landuse Datasets in a Coupled Hydromet Model. *AGU Fall Meeting, San Francisco*. [link](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H23S1833G/abstract){: .btn .btn--inverse} |
 
-2018/09 | **Shreevastava, A.**, McGrath, G., Rao, P.S.C. (2018, September) Spatial analysis of the Surface Urban Heat Island. *SPIE Asia-Pacific Remote Sensing Conference, Honolulu, HI.* (Oral) [link](https://spie.org/AE/conferencedetails/land-surface-and-cryosphere-remote-sensing#session-3){: .btn .btn--inverse} |
+2023/04 | **Nagaraju Gaddam**, Abhinav Wadhwa, Likhitha Pentakota, Gowri Reghunath, Pradeep Mujumdar, Integration of the WRF Model with Fine-Scale Land Use Data to Simulate Extreme Rainfall Events. *EGU, Vienna, Austria.* [link](https://ui.adsabs.harvard.edu/abs/2023EGUGA..25.3183G/abstract){: .btn .btn--inverse} |
 
-2017/12 | **Shreevastava, A.**, McGrath, G., Rao, P.S.C. (2017, December) Characterizing the intra-urban spatial structure of High Heat Stress Zones. *Global Environment Change. AGU Fall meetings, New Orleans, LA.* (Oral) [link](http://adsabs.harvard.edu/abs/2017AGUFMGC11E..03S){: .btn .btn--inverse} |
+2022/12 | **Nagaraju Gaddam**, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, WRF - SWMM Coupled Model Performance Assessment with LCZ classifications. *AGU Fall Meeting, Chicago*.[link](https://ui.adsabs.harvard.edu/abs/2022AGUFM.A55P1334G/abstract){: .btn .btn--inverse} |
 
-2017/01 | **Shreevastava, A.**, Bhalachandran, S., Garcia-Dorado, I., Aliaga, D., and Niyogi, D. (2017, January) Incorporation of urban form and function for improved correlation between Land Use Types and Land Surface Temperatures. *13th Symposium of the Urban Environment. 97th AMS Annual Meeting, Seattle, WA.* **(Won the AMS Best Presentation Award)** [link](https://ams.confex.com/ams/97Annual/webprogram/Paper313630.html){: .btn .btn--inverse} [pdf](/assets/files/LCZ_LST_AMS-poster.pdf){: .btn .btn--inverse}  |
-
-2017/01 | **Shreevastava, A.**, Bhalachandran, S., Krueger, E., Rao, P.S.C., Modak, P., and Niyogi, D. (2017, January) A Resilience Analysis of 100 Climate Proofing Strategies of the C-40 Cities. *97th AMS Annual Meeting, Seattle, WA.* (Poster) [link](https://ams.confex.com/ams/97Annual/webprogram/Paper313617.html){: .btn .btn--inverse} [pdf](/assets/files/C40_AMS-Poster.pdf){: .btn .btn--inverse} |
-
-2017/01 | Niyogi, D., Bhalachandran, S., Brousse, O., Jain, M., **Shreevastava, A.**, Jain, A.P. (2017, January) Investigation of the Impact of Urbanization Under the 2015 Delhi Heat Wave Scenario *13th Symposium of the Urban Environment. 97th AMS Annual Meeting, Seattle, WA.*  [link](https://ams.confex.com/ams/97Annual/webprogram/Paper313616.html){: .btn .btn--inverse} |
+2022/12 | Likhitha Pentakota, Abhinav Wadhwa, Avinash shubha, **Nagaraju Gaddam**, Low Impact Development (LID) as Flood Control Alternatives for Rapidly Changing Urban Landscapes AGU Fall Meeting, Chicago (Oral) [link](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H13C..06P/abstract){: .btn .btn--inverse} |
 
 <br>
 

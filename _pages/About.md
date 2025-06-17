@@ -1,6 +1,6 @@
 ---
 permalink: /About/
-title: "About Mr. Gaddam"
+title: About Mr. Gaddam
 layout: single
 classes: wide
 sitemap: true
@@ -22,6 +22,12 @@ I’m enrolled in the interdisciplinary Ph.D. program, [**Future Earth, Climate 
 I'm extremely thankful for the support of the [**MSCA Cofund Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/), and fortunate to be working under the mentorship of [Prof. Silvana Di Sabatino](hhttps://www.unibo.it/sitoweb/silvana.disabatino), [Dr. Carlo Cintolesi](https://sites.google.com/view/carlo-cintolesi/), and [Dr. Paolo Ruggeri](https://www.unibo.it/sitoweb/paolo.ruggieri2).
 
 ---
+
+### Research Journey
+
+Before my Ph.D., I completed my Master’s in [**Ocean and Atmospheric Sciences**](https://centres.uohyd.ac.in/ceoas/) at the [**University of Hyderabad**](https://uohyd.ac.in/). My thesis explored the **impact of land-use and land-cover changes on seasonal surface temperature over Southern India** using a regional climate model.
+
+During my undergraduate years, I studied **Computer Science** at **Mahatma Gandhi University** in Hyderabad, India. This background ignited my interest in data science and its applications in climate and environmental systems — especially with the revolution of **cloud computing** in recent years.
 
 ### Academic Journey
 
