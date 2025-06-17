@@ -24,18 +24,6 @@ author_profile: true
 
 2023 | **Shreevastava, A.**, Thompson, J., & Hulley, G. (2023). Algorithms for detecting sub-pixel elevated temperature features for the nasa surface biology and geology (sbg) designated observable. *Journal of Geophysical Research: Biogeosciences*. [doi](https://doi.org/10.1029/2022JG007370){: .btn .btn--inverse} |
 
-2021 | **Shreevastava, A.**, Prasanth, S., Ramamurthy, P., & Rao, P.S.C. (2021). Scale-dependent response of the urban heat island to the European heatwave of 2018. *Environmental Research Letters*. [doi](https://doi.org/10.1088/1748-9326/ac25bb){: .btn .btn--inverse} |
-
-2019 | **Shreevastava, A.**, Rao, P.S.C., & McGrath, G.S. (2019). Emergent self-similarity and scaling properties of fractal intra-urban heat islets for diverse global cities. *Physical Reviews E*. [doi](https://doi.org/10.1103/PhysRevE.100.032142){: .btn .btn--inverse} [dataset](https://osf.io/53t2g/){: .btn .btn--inverse} |
-
-2019 | **Shreevastava, A.**, Bhalachandran, S., McGrath, G.S., Huber, M., & Rao, P.S.C. (2019). Paradoxical impact of sprawling intra-Urban Heat Islets: Reducing mean surface temperatures while enhancing local extremes. *Scientific Reports*. [doi](https://www.nature.com/articles/s41598-019-56091-w){: .btn .btn--inverse} [dataset](https://osf.io/9srdp/){: .btn .btn--inverse} |
-
-2019 | Bhalachandran, S., Chavas, D.R., Marks, F.D., Dubey, S., **Shreevastava, A.**, & Krishnamurti, T.N. (2019). Characterizing the energetics of multiscale asymmetries during tropical cyclone rapid intensity changes. *Journal of Atmospheric Sciences*. [pdf](/assets/files/JAS_arxiv_compressed.pdf){: .btn .btn--inverse} |
-
-2018 | **Shreevastava, A.**, Rao, P.S.C., & McGrath, G.S. (2018, October). Spatial analysis of the Surface Urban Heat Island. *Land Surface and Cryosphere Remote Sensing* (Vol. 10777, p. 107770C). International Society for Optics and Photonics. [doi](https://doi.org/10.1117/12.2501441){: .btn .btn--inverse} [pdf](/assets/files/SPIE_2018.pdf){: .btn .btn--inverse} |
-
-2018 | Ching, J., et al, including **Shreevastava, A.** (2018). WUDAPT: An urban weather, climate, and environmental modeling infrastructure for the Anthropocene. *Bulletin of the American Meteorological Society*, 99(9), 1907-1924. [doi](https://doi.org/10.1175/BAMS-D-16-0236.1){: .btn .btn--inverse} [pdf](/assets/files/WUDAPT_BAMS_2018.pdf){: .btn .btn--inverse} |
-
 <br>
 
 ## Conference presentations
@@ -55,15 +43,17 @@ author_profile: true
 
 ## Seminars, workshops, and invited talks
 
-2023/12 | Hydro-Meteorological Data Analysis for Climate Change Studies. *National Institute of Hydrology, Roorkee, India* |
+2023/12 | Hydro-Meteorological Data Analysis for Climate Change Studies. *National Institute of Hydrology, Roorkee, India*. |
 
-2023/12 | Monsoon School on Urban Floods. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India* |
+2023/12 | Monsoon School on Urban Floods. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India*. |
 
-2023/05 | Computer Applications in Water Resources Engineering - 2023. *Department of Civil Engineering, [National Institute of Technology](https://www.nitrkl.ac.in/), Rourkela, India* |
+2023/05 | Computer Applications in Water Resources Engineering - 2023. *Department of Civil Engineering, [National Institute of Technology](https://www.nitrkl.ac.in/), Rourkela, India*. |
 
-2023/12 | Engineering Hydrology. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India* |
+2023/12 | Engineering Hydrology. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India*. |
 
-2022/06 | Urban Mesoscale Modelling Systems For Predictions of Weather Extremes. [*Indian Institute of Technology](https://www.iitbbs.ac.in/), Bhubaneswar, India* |
+2023/06 | Urban Mesoscale Modelling Systems For Predictions of Weather Extremes. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India* |
+
+2022/06 | Urban Mesoscale Modelling Systems For Predictions of Weather Extremes. *[IIT Bhubaneswar](https://old.iitbbs.ac.in/earth-ocean-home.php?code=oc), India.* |
 
 2022/03 | Air and Water Pollution Monitoring and Management at *[Jawaharlal Nehru University](https://jnuenvis.nic.in//JNUENVISGSDP/index.html), New Delhi India.* |
 
@@ -77,21 +67,6 @@ of Atmospheric Aerosols.*Dept of Civil Engineering Indian Institute of Technolog
 
 2020/05 | Extreme Heat and Cities (Invited). *[Phoenix Sustainability Initiative seminar](https://eco.uchicago.edu/2021/04/14/calendar-of-events-phoenix-sustainability-initiative/), University of Chicago, IL, USA.* |
 
-2020/02 | Extreme Heat and Cities (Invited). *Senseable City Lab, MIT, Boston, USA.* |
-
-2020/01 | *Winter Workshop on Complex Systems 2020, Laussane, Switzerland*. [link](https://wwcs2020.github.io/){: .btn .btn--inverse} |
-
-2019/08 | Spatial correlation of inequalities in building energy usage and regions of extreme heat. *Centre for Advaced Spatial Analysis (CASA), University College London (UCL), London, UK*. [link](https://www.ucl.ac.uk/bartlett/casa/news/2019/jun/casa-doctoral-summer-school-advanced-spatial-modelling){: .btn .btn--inverse} |
-
-2019/04 | Characterizing the spatial complexity of the intra-urban heat islets. *NASA Land Cover Land Use Change (LCLUC) Science Team meeting, Rockville, MD, USA.* [link](https://lcluc.umd.edu/meetings/2019-nasa-lcluc-spring-science-team-meeting){: .btn .btn--inverse}. |
-
-2018/08 | Fractal topography of the intra-urban thermal landscape (Invited). *Colorado State University, Fort Collins, CO, USA.* |
-
-2018/06 | Fractal topography of the intra-urban thermal landscape (Invited). *NASA Ames, Mountainview, CA, USA.* |
-
-2018/02 | Fractal topography of the intra-urban thermal landscape (Invited). *University of Florida, Gainesville, FL, USA.* |
-
-2017/08 | Optimizing Thermal Comfort in Fractal Cities (Invited). *Technische Universitat (TU), Dresden, Germany.* [link](https://www.ufz.de/cawr/index.php?en=42471){: .btn .btn--inverse} |
 
 2016/08 | A resilience analysis of 100 climate proofing strategies by 56 global cities. *Helmholtz Centre for Environmental Research (UFZ), Magdeburg, Germany.* [link](https://www.ufz.de/cawr/index.php?en=43129){: .btn .btn--inverse} |
 
