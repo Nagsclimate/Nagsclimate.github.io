@@ -49,13 +49,31 @@ author_profile: true
 
 2022/12 | **Nagaraju Gaddam**, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, WRF - SWMM Coupled Model Performance Assessment with LCZ classifications. *AGU Fall Meeting, Chicago*.[link](https://ui.adsabs.harvard.edu/abs/2022AGUFM.A55P1334G/abstract){: .btn .btn--inverse} |
 
-2022/12 | Likhitha Pentakota, Abhinav Wadhwa, Avinash shubha, **Nagaraju Gaddam**, Low Impact Development (LID) as Flood Control Alternatives for Rapidly Changing Urban Landscapes AGU Fall Meeting, Chicago (Oral) [link](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H13C..06P/abstract){: .btn .btn--inverse} |
+2022/12 | Likhitha Pentakota, Abhinav Wadhwa, Avinash shubha, **Nagaraju Gaddam**, Low Impact Development (LID) as Flood Control Alternatives for Rapidly Changing Urban Landscapes. *AGU Fall Meeting, Chicago* [link](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H13C..06P/abstract){: .btn .btn--inverse} |
 
 <br>
 
 ## Seminars, workshops, and invited talks
 
-2020/11 | Extreme Heat and Cities (Invited). *City College of New York, NY, USA.* |
+2023/12 | Hydro-Meteorological Data Analysis for Climate Change Studies. *National Institute of Hydrology, Roorkee, India* |
+
+2023/12 | Monsoon School on Urban Floods. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India* |
+
+2023/05 | Computer Applications in Water Resources Engineering - 2023. *Department of Civil Engineering, [National Institute of Technology](https://www.nitrkl.ac.in/), Rourkela, India* |
+
+2023/12 | Engineering Hydrology. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India* |
+
+2022/06 | Urban Mesoscale Modelling Systems For Predictions of Weather Extremes. [*Indian Institute of Technology](https://www.iitbbs.ac.in/), Bhubaneswar, India* |
+
+2022/03 | Air and Water Pollution Monitoring and Management at *[Jawaharlal Nehru University](https://jnuenvis.nic.in//JNUENVISGSDP/index.html), New Delhi India.* |
+
+2021/03 | Geo spatial applications for disaster risk management. *Centre for Space Science and Technology Education in Asia and the Pacific, Dehradun, India.* |
+
+2021/03 | Nature-based Solutions for Disaster and Climate Resilience. *PEDRR and UN Environment Programme with support from the European Commission*. |
+ 
+2021/03 | Concepts in Measurement, Laboratory Experiment and Modelling
+of Atmospheric Aerosols.*Dept of Civil Engineering Indian Institute of Technology Madras.* |
+
 
 2020/05 | Extreme Heat and Cities (Invited). *[Phoenix Sustainability Initiative seminar](https://eco.uchicago.edu/2021/04/14/calendar-of-events-phoenix-sustainability-initiative/), University of Chicago, IL, USA.* |
 
