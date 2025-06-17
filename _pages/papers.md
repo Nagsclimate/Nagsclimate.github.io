@@ -18,7 +18,7 @@ author_profile: true
 
 ## Journal publications
 
-2023 | Raymond, C., **Shreevastava, A.**, Slinskey, E., & Waliser, D. (2024). Linkages between atmospheric rivers and humid heat across the united states. *Natural Hazards and Earth System Sciences*. [doi](https://doi.org/10.5194/nhess-24-791-2024){: .btn .btn--inverse} |
+2024 | **Nagaraju Gaddam**, Nruthya K, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, High-Resolution Urban Rainfall and Flood Forecasts Using Improved Landuse Datasets in a Coupled Hydromet Model . [Manuscript under preparation](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H23S1833G/abstract){: .btn .btn--inverse} |
 
 2023 | **Shreevastava, A.**, Raymond, C., & Hulley, G. C. (2023). Contrasting intra-urban signatures of humid and dry heatwaves over southern california. *Journal of Applied Meteorology and Climatology.*  [doi](https://doi.org/10.1175/JAMC-D-22-0149.1){: .btn .btn--inverse} |
 
@@ -45,24 +45,21 @@ author_profile: true
 
 2023/12 | Hydro-Meteorological Data Analysis for Climate Change Studies. *National Institute of Hydrology, Roorkee, India*. |
 
-2023/12 | Monsoon School on Urban Floods. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India*. |
+2023/12 | Monsoon School on Urban Floods. *Interdisciplinary Center For Water Research, Indian Institute of Science, Bangalore, India* |
 
-2023/05 | Computer Applications in Water Resources Engineering - 2023. *Department of Civil Engineering, [National Institute of Technology](https://www.nitrkl.ac.in/), Rourkela, India*. |
+2023/05 | Computer Applications in Water Resources Engineering - 2023. *Department of Civil Engineering, National Institute of Technology, Rourkela, India*. |
 
-2023/12 | Engineering Hydrology. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India*. |
+2023/12 | Engineering Hydrology. *Interdisciplinary Center For Water Research, Indian Institute of Science, Bangalore, India*. |
 
-2023/06 | Urban Mesoscale Modelling Systems For Predictions of Weather Extremes. *[Interdisciplinary Center For Water Research](https://icwar.iisc.ac.in/),[Indian Institute of Science](https://iisc.ac.in/), Bangalore, India* |
+2022/06 | Urban Mesoscale Modelling Systems For Predictions of Weather Extremes. *IIT Bhubaneswar, India.* |
 
-2022/06 | Urban Mesoscale Modelling Systems For Predictions of Weather Extremes. *[IIT Bhubaneswar](https://old.iitbbs.ac.in/earth-ocean-home.php?code=oc), India.* |
-
-2022/03 | Air and Water Pollution Monitoring and Management at *[Jawaharlal Nehru University](https://jnuenvis.nic.in//JNUENVISGSDP/index.html), New Delhi India.* |
+2022/03 | Air and Water Pollution Monitoring and Management at *Jawaharlal Nehru University, New Delhi India.* |
 
 2021/03 | Geo spatial applications for disaster risk management. *Centre for Space Science and Technology Education in Asia and the Pacific, Dehradun, India.* |
 
 2021/03 | Nature-based Solutions for Disaster and Climate Resilience. *PEDRR and UN Environment Programme with support from the European Commission*. |
  
-2021/03 | Concepts in Measurement, Laboratory Experiment and Modelling
-of Atmospheric Aerosols.*Dept of Civil Engineering Indian Institute of Technology Madras.* |
+2021/03 | Concepts in Measurement, Laboratory Experiment and Modelling of Atmospheric Aerosols. *Dept of Civil Engineering Indian Institute of Technology Madras.* |
 
 
 2020/05 | Extreme Heat and Cities (Invited). *[Phoenix Sustainability Initiative seminar](https://eco.uchicago.edu/2021/04/14/calendar-of-events-phoenix-sustainability-initiative/), University of Chicago, IL, USA.* |
