@@ -1,8 +1,8 @@
 ---
 layout: single
 sitemap: true
-collection: Myjourney
-permalink: /Myjourney/
+collection: journey
+permalink: /journey/
 author_profile: true
 toc: true
 title: Other Resources

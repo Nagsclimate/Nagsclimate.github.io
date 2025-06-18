@@ -1,8 +1,8 @@
 ---
 layout: single
 sitemap: true
-collection: creative-space
-permalink: /creative-space/
+collection: sapce
+permalink: /space/
 author_profile: true
 toc: true
 title: Other Resources
