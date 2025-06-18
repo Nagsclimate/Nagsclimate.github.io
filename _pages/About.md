@@ -11,52 +11,48 @@ author_profile: true
   <img src="/assets/images/Display pic.JPG" alt="Nagaraju Gaddam Profile Picture">
 </figure>
 
-Hello! I'm **Nagaraju Gaddam**, a Marie Skłodowska-Curie Cofund Doctoral Fellow at the **University of Bologna**, Italy. I currently live in Bologna, in the Emilia-Romagna region, and I’m part of the prestigious **FutureData4EU** project, funded by the **European Union**.
-
-👉 [My official work profile](https://www.unibo.it/sitoweb/nagaraju.gaddam2)
-
-I’m enrolled in the interdisciplinary Ph.D. program, [**Future Earth, Climate Change and Societal Challenges**](https://phd.unibo.it/future-earth-climate-change-societal-challenges/en), where my research focuses on:
-
-> **Numerical downscaling at the local microscale for the evaluation of climate change adaptation and mitigation measures**
-
-I'm extremely thankful for the support of the [**MSCA Cofund Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/), and fortunate to be working under the mentorship of [Prof. Silvana Di Sabatino](hhttps://www.unibo.it/sitoweb/silvana.disabatino), [Dr. Carlo Cintolesi](https://sites.google.com/view/carlo-cintolesi/), and [Dr. Paolo Ruggeri](https://www.unibo.it/sitoweb/paolo.ruggieri2).
+I am currently a **Marie Skłodowska Curie Actions (Marie Curie) Cofund Doctoral Fellow** at the **Department of Physics and Astronomy**, University of Bologna, Italy, within the interdisciplinary program on **Future Earth, Climate Change and Societal Challenges**. I live in Bologna, in the Emilia-Romagna region, and I’m honored to be part of the prestigious [**MSCA FutureData4EU**](https://site.unibo.it/futuredata4eu/en) project, funded by the **European Union**.
 
 ---
 
-### Research Journey
+### 🧭 Research Journey
 
-Before my Ph.D., I completed my Master’s in [**Ocean and Atmospheric Sciences**](https://centres.uohyd.ac.in/ceoas/) at the [**University of Hyderabad**](https://uohyd.ac.in/). My thesis explored the **impact of land-use and land-cover changes on seasonal surface temperature over Southern India** using a regional climate model.
+Before beginning my Doctoral studies, I worked as a **Meteorology  Scientist**  at the **Regional Integrated Multi-Hazard Early Warning System (RIMES)**, **National Centre For Medium Range Weather Forecasting (NCMRWF)** in New Delhi, India, contributing to weather model optimization, hazard risk assessments, and the development of real-time decision support systems for disaster-prone regions in India and Neighborhood countries .
 
-During my undergraduate years, I studied **Computer Science** at **Mahatma Gandhi University** in Hyderabad, India. This background ignited my interest in data science and its applications in climate and environmental systems — especially with the revolution of **cloud computing** in recent years.
+Previously, I served as a **Junior Research Fellow** at the **Indian Institute of Science (IISc), Bengaluru**, where I led [meteorological modeling tasks](https://icwar.iisc.ac.in/assets/pdfs/Media%20Coverage/deccanherald.com-IISc%20flood%20model%20heads%20to%20Bengalurus%20rescue.pdf), developed UWRF based real time rainfall forecasting systems, and integrated weather outputs with hydrology models for [urban flood forecasting](https://www.deccanherald.com/india/karnataka/bengaluru/iisc-flood-model-heads-to-b-luru-s-rescue-3031418) in Bangalore.
 
-### Academic Journey
-
-Before my Ph.D., I completed my Master’s in [**Ocean and Atmospheric Sciences**](https://centres.uohyd.ac.in/ceoas/) at the [**University of Hyderabad**](https://uohyd.ac.in/). My thesis explored the **impact of land-use and land-cover changes on seasonal surface temperature over Southern India** using a regional climate model.
-
-During my undergraduate years, I studied **Computer Science** at **Mahatma Gandhi University** in Hyderabad, India. This background ignited my interest in data science and its applications in climate and environmental systems — especially with the revolution of **cloud computing** in recent years.
+My academic research began with my **Master’s thesis** at the **University of Hyderabad**, where I investigated the Impacts of **land use/land-cover change and Indian Ocean SST warming on seasonal surface temperature patterns over Southern India using the WRF model**.
 
 ---
 
-### Personal Background
+### 🎓 Academic Background
 
-I was born and raised in **Hyderabad**, Telangana  fondly known as the [**Biryani City of India**](https://en.wikipedia.org/wiki/Hyderabadi_biryani). Thanks to my parents' love of travel, I’ve explored many corners of India — an experience that’s shaped my cultural appreciation and curiosity.
+I hold a **Master’s degree in Ocean and Atmospheric Sciences** from the [**University of Hyderabad**](https://uohyd.ac.in/), where I received First Class honors. During this time, I developed a strong foundation in atmospheric modeling, weather forecasting, and numerical weather prediction.
 
-Over the years, I’ve had the chance to travel globally for **workshops**, **collaborations**, and **conferences**. These journeys have deeply influenced my outlook on research, climate action, and society.
+Earlier, I completed a **Bachelor’s in Computer Science** at **Mahatma Gandhi University**, (Osmania University), Telangana . My computer science background inspired my interest in using programming, data science, and cloud technologies to tackle challenges in climate and environmental research.
 
 ---
 
-### Life Beyond Science
+### 🏡 Personal Background
 
-Outside academia, I enjoy exploring **music**, **maps**, **satellite imagery**, and **poetry**. I’ve spent countless hours looking at Earth through tools like **Google Earth**, watching **Apple TV’s Live Aerial screensavers**, or admiring landscapes during flights.
+I was born in a rural village called [**Peddanemila**](https://www.google.com/maps/place/Pedanemila/@17.348783,79.7701355,295m/data=!3m1!1e3!4m15!1m8!3m7!1s0x3a34c19f9be9391d:0x6b4e959373008fd9!2sNuthankal,+Telangana+508221,+India!3b1!8m2!3d17.3321865!4d79.6955303!16s%2Fm%2F0gg8qfp!3m5!1s0x3a34eb66ac4fc0cf:0x5b2d32651f5adba8!8m2!3d17.3482832!4d79.7696801!16s%2Fg%2F11qbkt8dj2?entry=ttu&g_ep=EgoyMDI1MDYxNS4wIKXMDSoASAFQAw%3D%3D) and raised in [**Hyderabad**](https://youtu.be/-1FBsUq5HzU), Telangana; lovingly known as the [**Biryani City of India**](https://en.wikipedia.org/wiki/Hyderabadi_biryani), India. Thanks to my parents’ love for travel, I had the opportunity to explore many corners of India early in life an experience that shaped my cultural curiosity and appreciation for diversity.
 
-In fact, I’ve developed a sort of mental “neural network” that helps me identify cities from a single glimpse of their road layout, coastlines, river bends, or night lights. It’s one of my quirky joys!
+For a deeper glimpse into my upbringing, personal growth, and the social challenges I navigated, visit **[My Journey](https://nagsclimate.github.io/resources/)**.
 
-I’m also planning to share:
-- A **podcast series** on climate, cities, and society
-- My personal **poetry and photography**
-- Resources and insights for early-career climate researchers
+---
 
-Stay tuned for updates on these!
+### 🌍 Life Beyond Science
+
+Outside academia, I have a deep love for **reading**, **writing poetry and books**, **reviewing literature**, and **coding**. I often find myself mesmerized by tools like **Google Earth**, or simply gazing out of airplane windows—trying to recognize cities by their unique layouts, coastlines, or night lights. Over time, this has become a joyful habit—like a personal "neural network" of the world in my mind.
+
+I’m also working on a few creative projects:
+
+- A [**podcast series**](https://nagsclimate.github.io/creative-space/) exploring the intersections of climate, cities, and society
+    
+- Sharing my personal [**poetry and photography**](https://nagsclimate.github.io/creative-space/)
+    
+
+Stay tuned for more updates!
 
 ---
 
