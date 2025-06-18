@@ -43,7 +43,7 @@ For a deeper glimpse into my upbringing, personal growth, and the social challen
 
 ### Life Beyond Science
 
-Outside academia, I have a deep love for **reading**, **writing poetry and books**, **reviewing literature**, and **coding**. I often find myself mesmerized by tools like **Google Earth**, or simply gazing out of airplane windows—trying to recognize cities by their unique layouts, coastlines, or night lights. Over time, this has become a joyful habit—like a personal "neural network" of the world in my mind.
+Outside academia, I have a deep love for **reading**, **writing poetry and books**, **reviewing literature**, and **coding**. I often find myself mesmerized by tools like **Google Earth**, or simply gazing out of airplane windows trying to recognize cities by their unique layouts, coastlines, or night lights. Over time, this has become a joyful habit like a personal "neural network" of the world in my mind.
 
 I’m also working on a few creative projects:
 
@@ -51,7 +51,6 @@ I’m also working on a few creative projects:
     
 - Sharing my personal [**poetry and photography**](https://nagsclimate.github.io/creative-space/)
     
-
 Stay tuned for more updates!
 
 ---
