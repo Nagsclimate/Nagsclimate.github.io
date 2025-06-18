@@ -16,13 +16,14 @@ author_profile: true
 %[preprint](https://eartharxiv.org/gxj9m/){: .btn .btn--inverse}
 -->
 
-## Journal publications
+## Academic  publications
 
 2024 | **Nagaraju Gaddam**, Nruthya K, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, High-Resolution Urban Rainfall and Flood Forecasts Using Improved Landuse Datasets in a Coupled Hydromet Model . [Manuscript under preparation](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H23S1833G/abstract){: .btn .btn--inverse} |
 
-2023 | **Shreevastava, A.**, Raymond, C., & Hulley, G. C. (2023). Contrasting intra-urban signatures of humid and dry heatwaves over southern california. *Journal of Applied Meteorology and Climatology.*  [doi](https://doi.org/10.1175/JAMC-D-22-0149.1){: .btn .btn--inverse} |
+<br>
+## Non Academic publications
 
-2023 | **Shreevastava, A.**, Thompson, J., & Hulley, G. (2023). Algorithms for detecting sub-pixel elevated temperature features for the nasa surface biology and geology (sbg) designated observable. *Journal of Geophysical Research: Biogeosciences*. [doi](https://doi.org/10.1029/2022JG007370){: .btn .btn--inverse} |
+2024 | **Nagaraju Gaddam**, Nruthya K, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, High-Resolution Urban Rainfall and Flood Forecasts Using Improved Landuse Datasets in a Coupled Hydromet Model . [Manuscript under preparation](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H23S1833G/abstract){: .btn .btn--inverse} |
 
 <br>
 
@@ -60,14 +61,6 @@ author_profile: true
 2021/03 | Nature-based Solutions for Disaster and Climate Resilience. *PEDRR and UN Environment Programme with support from the European Commission*. |
  
 2021/03 | Concepts in Measurement, Laboratory Experiment and Modelling of Atmospheric Aerosols. *Dept of Civil Engineering Indian Institute of Technology Madras.* |
-
-
-2020/05 | Extreme Heat and Cities (Invited). *[Phoenix Sustainability Initiative seminar](https://eco.uchicago.edu/2021/04/14/calendar-of-events-phoenix-sustainability-initiative/), University of Chicago, IL, USA.* |
-
-
-2016/08 | A resilience analysis of 100 climate proofing strategies by 56 global cities. *Helmholtz Centre for Environmental Research (UFZ), Magdeburg, Germany.* [link](https://www.ufz.de/cawr/index.php?en=43129){: .btn .btn--inverse} |
-
-2016/06 | A resilience analysis of 100 climate proofing strategies by 56 global cities. *Environmental Management Centre (EMC), Mumbai, India* [link](https://www.emcentre.com/){: .btn .btn--inverse} |
 
 <!--
 2016/06 | Using SAGA GIS to classify urban land use and land cover into Local Climate Zone maps. *Indian Institute of Technology (IIT), Mumbai, India* |
