@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "90d139be5da81d85",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae5b97605ec64c7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "692f9a3d35792903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_pages/journey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "journey"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c2fd04e7c903bce",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b9b79a72a35d129",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69cfba1089494d18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4c4b151fb6e166ca",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9ad66ad7ecac29d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e963834da37793b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58c2c3b357ad69c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b06b1dac6d3327cb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_pages/About.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for About"
+            }
+          },
+          {
+            "id": "2ae893cc11585948",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_pages/About.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from About"
+            }
+          },
+          {
+            "id": "9a31de03839f4de5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b39bd9f3aaa74580",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_pages/About.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of About"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "692f9a3d35792903",
+  "lastOpenFiles": [
+    "README.md",
+    "_pages/space.md",
+    "_pages/projects.md",
+    "_pages/papers.md",
+    "_pages/music.md",
+    "_pages/resources (Copy).md",
+    "_pages/journey.md",
+    "_pages/creative-space.md",
+    "_pages/join-us.md",
+    "_pages/index.md",
+    "2025-06-17.md",
+    "_pages/Research.md",
+    "_pages/Myjourney.md",
+    "_pages/resources.md",
+    "assets/media",
+    "assets/Personal",
+    "assets/photography",
+    "assets/poetry",
+    "_pages/About.md",
+    "assets/images/nags.jpg",
+    "assets/city-pics/nags.jpg",
+    "().md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
+    "_portfolio/5-WRF.md",
+    "_pages/404.md",
+    "_pages/creative-space/blog-stories/index.md",
+    "_portfolio/2-C40-Cities.md",
+    "assets/city-pics/aditya-chinchure-p0D5zWMaEa0-unsplash.jpg",
+    "_reserve/Smart-City-Analytics.md",
+    "_reserve/Roads-Indy.md",
+    "_reserve/Fuels-Purdue.md",
+    "_portfolio/4-Global-Water.md",
+    "assets/files/Water-Poverty.pdf",
+    "_portfolio/3-Ecosystem-Services.md"
+  ]
+}

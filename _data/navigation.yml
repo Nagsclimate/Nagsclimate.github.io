@@ -7,16 +7,7 @@ main:
     url: /papers/
   - title: "Resources"
     url: /resources/
-  - title: "Contact Me"
+  - title: "My Journey"
     url: /join-us/
   - title: "Creative Space"
-    url: /creative-space/
-    children:
-      - title: "City Climate Podcast"
-        url: /creative-space/city-climate-podcast/
-      - title: "Photography"
-        url: /creative-space/photography/
-      - title: "Blog & Stories"
-        url: /creative-space/blog-stories/
-      - title: "Personal Thoughts & Poetry"
-        url: /creative-space/personal-thoughts-poetry/
+    url: /space/
