@@ -38,63 +38,9 @@ Cities, situated at the crossroads of rising temperatures and growing population
 
 | **Impact of spatial organization of Local Climate Zones on Urban Surface temperatures** <br> <br> [Local Climate Zones (LCZ)](http://www.wudapt.org/lcz/) are an urban land cover land use classification system that help standardize methods of observation and documentation in urban heat island studies. It is based on a random forest classification workflow implemented in SAGA GIS. I worked on developing LCZ maps for diverse cities across the world. While there is a point-to-point correlation between the LCZ classes and Urban Temperatures, the spatial neighborhoods of each LCZs strongly influence the temperature distributions as well. <br><br> Read more: [[Poster](/assets/files/LCZ_LST_AMS-poster.pdf)] [[BAMS Article](https://doi.org/10.1175/BAMS-D-16-0236.1)] | <img src="/assets/images/LCZ.png" width="1600px" alt="LCZ"> |
 
-## Journal publications
 
-2024 | **Nagaraju Gaddam**, Nruthya K, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, High-Resolution Urban Rainfall and Flood Forecasts Using Improved Landuse Datasets in a Coupled Hydromet Model . [Manuscript under preparation](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H23S1833G/abstract){: .btn .btn--inverse} |
-
-2023 | **Shreevastava, A.**, Raymond, C., & Hulley, G. C. (2023). Contrasting intra-urban signatures of humid and dry heatwaves over southern california. *Journal of Applied Meteorology and Climatology.*  [doi](https://doi.org/10.1175/JAMC-D-22-0149.1){: .btn .btn--inverse} |
-
-2023 | **Shreevastava, A.**, Thompson, J., & Hulley, G. (2023). Algorithms for detecting sub-pixel elevated temperature features for the nasa surface biology and geology (sbg) designated observable. *Journal of Geophysical Research: Biogeosciences*. [doi](https://doi.org/10.1029/2022JG007370){: .btn .btn--inverse} |
-
-<br>
-
-## Conference presentations
-
-
-2024/04 | Karthika K, Likhitha Pentakota, Nruthya K, **Nagaraju Gaddam**, Ananthula Rishika, Pradeep Mujumdar, A Qualitative and Quantitative Evaluation of the WRF Model Simulations for High Resolution Urban Rainfall Forecasting”. *EGU, Vienna, Austria*. [link](https://meetingorganizer.copernicus.org/EGU24/EGU24-14385.html){: .btn .btn--inverse} |
-
-2023/12 | **Nagaraju Gaddam**, Nruthya K, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, High-Resolution Urban Rainfall and Flood Forecasts Using Improved Landuse Datasets in a Coupled Hydromet Model. *AGU Fall Meeting, San Francisco*. [link](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H23S1833G/abstract){: .btn .btn--inverse} |
-
-2023/04 | **Nagaraju Gaddam**, Abhinav Wadhwa, Likhitha Pentakota, Gowri Reghunath, Pradeep Mujumdar, Integration of the WRF Model with Fine-Scale Land Use Data to Simulate Extreme Rainfall Events. *EGU, Vienna, Austria.* [link](https://ui.adsabs.harvard.edu/abs/2023EGUGA..25.3183G/abstract){: .btn .btn--inverse} |
-
-2022/12 | **Nagaraju Gaddam**, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, WRF - SWMM Coupled Model Performance Assessment with LCZ classifications. *AGU Fall Meeting, Chicago*.[link](https://ui.adsabs.harvard.edu/abs/2022AGUFM.A55P1334G/abstract){: .btn .btn--inverse} |
-
-2022/12 | Likhitha Pentakota, Abhinav Wadhwa, Avinash shubha, **Nagaraju Gaddam**, Low Impact Development (LID) as Flood Control Alternatives for Rapidly Changing Urban Landscapes. *AGU Fall Meeting, Chicago* [link](https://ui.adsabs.harvard.edu/abs/2022AGUFM.H13C..06P/abstract){: .btn .btn--inverse} |
-
-<br>
-
-## Seminars, workshops, and invited talks
-
-2023/12 | Hydro-Meteorological Data Analysis for Climate Change Studies. *National Institute of Hydrology, Roorkee, India*. |
-
-2023/12 | Monsoon School on Urban Floods. *Interdisciplinary Center For Water Research, Indian Institute of Science, Bangalore, India* |
-
-2023/05 | Computer Applications in Water Resources Engineering - 2023. *Department of Civil Engineering, National Institute of Technology, Rourkela, India*. |
-
-2023/12 | Engineering Hydrology. *Interdisciplinary Center For Water Research, Indian Institute of Science, Bangalore, India*. |
-
-2022/06 | Urban Mesoscale Modelling Systems For Predictions of Weather Extremes. *IIT Bhubaneswar, India.* |
-
-2022/03 | Air and Water Pollution Monitoring and Management at *Jawaharlal Nehru University, New Delhi India.* |
-
-2021/03 | Geo spatial applications for disaster risk management. *Centre for Space Science and Technology Education in Asia and the Pacific, Dehradun, India.* |
-
-2021/03 | Nature-based Solutions for Disaster and Climate Resilience. *PEDRR and UN Environment Programme with support from the European Commission*. |
- 
-2021/03 | Concepts in Measurement, Laboratory Experiment and Modelling of Atmospheric Aerosols. *Dept of Civil Engineering Indian Institute of Technology Madras.* |
-
-
-2020/05 | Extreme Heat and Cities (Invited). *[Phoenix Sustainability Initiative seminar](https://eco.uchicago.edu/2021/04/14/calendar-of-events-phoenix-sustainability-initiative/), University of Chicago, IL, USA.* |
-
-
-2016/08 | A resilience analysis of 100 climate proofing strategies by 56 global cities. *Helmholtz Centre for Environmental Research (UFZ), Magdeburg, Germany.* [link](https://www.ufz.de/cawr/index.php?en=43129){: .btn .btn--inverse} |
-
-2016/06 | A resilience analysis of 100 climate proofing strategies by 56 global cities. *Environmental Management Centre (EMC), Mumbai, India* [link](https://www.emcentre.com/){: .btn .btn--inverse} |
-
-<!--
-2016/06 | Using SAGA GIS to classify urban land use and land cover into Local Climate Zone maps. *Indian Institute of Technology (IIT), Mumbai, India* |
--->
 --
+## Building Energy Usage
 
 
 <!--
