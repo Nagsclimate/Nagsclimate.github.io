@@ -11,13 +11,13 @@ author_profile: true
   <img src="/assets/images/Display pic.JPG" alt="Nagaraju Gaddam Profile Picture">
 </figure>
 
-I am currently a **Marie Skłodowska Curie Actions (Marie Curie) Cofund Doctoral Fellow** at the **Department of Physics and Astronomy**, University of Bologna, Italy, within the interdisciplinary program on **Future Earth, Climate Change and Societal Challenges**. I live in Bologna, in the Emilia-Romagna region, and I’m honored to be part of the prestigious [**MSCA FutureData4EU**](https://site.unibo.it/futuredata4eu/en) project, funded by the **European Union**.
+I am currently a **Marie Skłodowska Curie Actions (Marie Curie) Cofund Doctoral Fellow** at the **Department of Physics and Astronomy**, University of Bologna, Italy, within the interdisciplinary program on **Future Earth, Climate Change and Societal Challenges**. I live in Bologna, in the Emilia-Romagna region, and I’m honored to be part of the prestigious [MSCA FutureData4EU](https://site.unibo.it/futuredata4eu/en) project, funded by the **European Union**.
 
 ---
 
 ### Research Journey
 
-Before beginning my Doctoral studies, I worked as a **Meteorology  Scientist**  at the **Regional Integrated Multi-Hazard Early Warning System (RIMES)**, **National Centre For Medium Range Weather Forecasting (NCMRWF)** in New Delhi, India, contributing to weather model optimization, hazard risk assessments, and the development of real-time decision support systems for disaster-prone regions in India and Neighborhood countries .
+Before beginning my Doctoral studies, I worked as a **Meteorology  Scientist**  at the Regional Integrated Multi-Hazard Early Warning System (RIMES), National Centre For Medium Range Weather Forecasting (NCMRWF) in New Delhi, India, contributing to weather model optimization, hazard risk assessments, and the development of real-time decision support systems for disaster-prone regions in India and Neighborhood countries .
 
 Previously, I served as a **Junior Research Fellow** at the **Indian Institute of Science (IISc), Bengaluru**, where I led [meteorological modeling tasks](https://icwar.iisc.ac.in/assets/pdfs/Media%20Coverage/deccanherald.com-IISc%20flood%20model%20heads%20to%20Bengalurus%20rescue.pdf), developed UWRF based real time rainfall forecasting systems, and integrated weather outputs with hydrology models for [urban flood forecasting](https://www.deccanherald.com/india/karnataka/bengaluru/iisc-flood-model-heads-to-b-luru-s-rescue-3031418) in Bangalore.
 
