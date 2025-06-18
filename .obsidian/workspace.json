@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/journey.md",
+                "file": "_pages/Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "journey"
+              "title": "Research"
             }
           }
         ]
@@ -170,13 +170,14 @@
   },
   "active": "692f9a3d35792903",
   "lastOpenFiles": [
-    "README.md",
-    "_pages/space.md",
+    "assets/images/Self.jpg",
     "_pages/projects.md",
     "_pages/papers.md",
     "_pages/music.md",
-    "_pages/resources (Copy).md",
     "_pages/journey.md",
+    "README.md",
+    "_pages/space.md",
+    "_pages/resources (Copy).md",
     "_pages/creative-space.md",
     "_pages/join-us.md",
     "_pages/index.md",

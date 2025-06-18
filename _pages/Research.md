@@ -39,8 +39,7 @@ Cities, situated at the crossroads of rising temperatures and growing population
 | **Impact of spatial organization of Local Climate Zones on Urban Surface temperatures** <br> <br> [Local Climate Zones (LCZ)](http://www.wudapt.org/lcz/) are an urban land cover land use classification system that help standardize methods of observation and documentation in urban heat island studies. It is based on a random forest classification workflow implemented in SAGA GIS. I worked on developing LCZ maps for diverse cities across the world. While there is a point-to-point correlation between the LCZ classes and Urban Temperatures, the spatial neighborhoods of each LCZs strongly influence the temperature distributions as well. <br><br> Read more: [[Poster](/assets/files/LCZ_LST_AMS-poster.pdf)] [[BAMS Article](https://doi.org/10.1175/BAMS-D-16-0236.1)] | <img src="/assets/images/LCZ.png" width="1600px" alt="LCZ"> |
 
 
---
-## Building Energy Usage
+
 
 
 <!--
