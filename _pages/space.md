@@ -5,7 +5,7 @@ collection: sapce
 permalink: /space/
 author_profile: true
 toc: true
-title: Other Resources
+title: Welcome to the Creative Space!
 toc_sticky: true
 toc_label: Jump to
 toc_icon: fal fa-stream
