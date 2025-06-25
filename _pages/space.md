@@ -12,7 +12,7 @@ toc_icon: fal fa-stream
 ---
 
 
-## Navigating grad school
+## Climate Podcast
 
 [**The hidden curriculum of grad school**](https://www.nature.com/articles/s41561-021-00799-w): Getting a PhD can be surprisingly different than your undergraduate journey. Here's a good way to better adjust your expectations of grad school. |
 
@@ -31,7 +31,7 @@ Some useful tools I have built for my research. Any suggestions for improvement 
 * [Land Surface Temperature from Landsat images](https://code.earthengine.google.com/36460b55b5c8688d50e27cbb073a0ef9)
 -->
 
-## Research groups
+## Poetry
 
 Some of the awesome research groups that I have had the pleasure to work with. Check them out and get in touch if you want to collaborate, be a part of, or just chat.
 
@@ -51,7 +51,7 @@ WUDAPT is an international community-generated urban canopy information and mode
 <!-- Extre link: [Complex Networks Synthesis Workshops](https://www.ufz.de/cawr/index.php?en=42471) -->
 
 
-## Weather Research Forecasting (WRF)
+## Photography
 
 [**WRF Diaries**](https://anamika255.github.io/portfolio/5-WRF/): Here I take notes on running WRF. In the hope that the hurdles I have overcome once do not slow me down again. |
 
@@ -59,12 +59,12 @@ WUDAPT is an international community-generated urban canopy information and mode
 [**Post Processing using X-array](https://fabienmaussion.info/acinn_xarray_workshop/#/13): Courtesy of Fabien Maussion (University of Innsbruck).
 -->
 
-## Remote Sensing and Geospatial Analysis
+## Adventure
 
 [**Google Earth Engine**](https://earthengine.google.com/): If you deal with satellite data and geospatial analysis, give this a test drive. |
 
 
-## Interactive Science Communication
+## Insights
 
 I am extremely passionate about data visualization and visual story-telling. Here are some compelling narratives that inspire me.
 
