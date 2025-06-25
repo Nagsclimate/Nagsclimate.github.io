@@ -56,7 +56,8 @@ Stay tuned for more updates!
 ---
 
 <figure class="align-center">
-  <img src="/assets/city-pics/London.jpg" alt="Photo of London by Unsplash">
+  <img src="/assets/city-pics/London.jpg" a
+  lt="Photo of London by Unsplash">
   <figcaption>To London – one of the most architecturally stunning cities I’ve ever walked in. The mix of old and new captivated me. <br>Photo credit: <a href="https://unsplash.com">Unsplash</a></figcaption>
 </figure>
 

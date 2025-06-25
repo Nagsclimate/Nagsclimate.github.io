@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "692f9a3d35792903",
+            "id": "f3306d51fe039250",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_pages/About.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "About"
+              "title": "New tab"
             }
           }
         ]
@@ -168,22 +164,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "692f9a3d35792903",
+  "active": "f3306d51fe039250",
   "lastOpenFiles": [
+    "_pages/About.md",
+    "assets/city-pics/ali-nuredini-X35Ivset6-Y-unsplash.jpg",
+    "assets/city-pics/florence.jpg",
+    "assets/city-pics/florence.jpg.crdownload",
+    "_pages/404.md",
+    "_pages/papers.md",
+    "_pages/index.md",
     "_pages/space.md",
     "_pages/Research.md",
     "_pages/join-us.md",
     "_pages/journey.md",
     "_pages/music.md",
     "_pages/projects.md",
-    "_pages/About.md",
-    "_pages/404.md",
     "assets/images/Self.jpg",
-    "_pages/papers.md",
     "README.md",
     "_pages/resources (Copy).md",
     "_pages/creative-space.md",
-    "_pages/index.md",
     "2025-06-17.md",
     "_pages/Myjourney.md",
     "_pages/resources.md",
