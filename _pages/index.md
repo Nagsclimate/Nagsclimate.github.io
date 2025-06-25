@@ -23,7 +23,7 @@ excerpt: >
 
 
 feature_row:
-  - image_path: /assets/images/Display picjpg
+  - image_path: /assets/images/myself.jpg
   - title: "Mr. Nagaraju Gaddam"
     excerpt: "**Marie Curie Doctoral Researcher** <br>
     Department of Physics and Astronomy, <br>
