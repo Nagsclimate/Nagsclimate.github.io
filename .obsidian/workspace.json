@@ -11,10 +11,14 @@
             "id": "f3306d51fe039250",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_pages/About.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "About"
             }
           }
         ]
@@ -166,13 +170,13 @@
   },
   "active": "f3306d51fe039250",
   "lastOpenFiles": [
+    "_pages/index.md",
     "_pages/About.md",
     "assets/city-pics/ali-nuredini-X35Ivset6-Y-unsplash.jpg",
     "assets/city-pics/florence.jpg",
     "assets/city-pics/florence.jpg.crdownload",
     "_pages/404.md",
     "_pages/papers.md",
-    "_pages/index.md",
     "_pages/space.md",
     "_pages/Research.md",
     "_pages/join-us.md",
