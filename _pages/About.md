@@ -56,8 +56,8 @@ Stay tuned for more updates!
 ---
 
 <figure class="align-center">
-  <img src="/assets/city-pics/London.jpg" a
+  <img src="/assets/city-pics/florence.jpg" a
   lt="Photo of London by Unsplash">
-  <figcaption>To London – one of the most architecturally stunning cities I’ve ever walked in. The mix of old and new captivated me. <br>Photo credit: <a href="https://unsplash.com">Unsplash</a></figcaption>
+  <figcaption>Sunlight dances across the iconic rooftops of Florence, revealing the city's rich Renaissance charm and timeless beauty in every stone. <br>Photo credit: <a href="https://nagsclimate.github.io/">Nags</a></figcaption>
 </figure>
 
