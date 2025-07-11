@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/papers.md",
+                "file": "_pages/Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "papers"
+              "title": "Research"
             }
           }
         ]
@@ -171,6 +171,7 @@
   "active": "f3306d51fe039250",
   "lastOpenFiles": [
     "_pages/projects.md",
+    "_pages/Research.md",
     "_pages/papers.md",
     "_pages/music.md",
     "_pages/journey.md",
@@ -180,7 +181,6 @@
     "assets/images/Display1.JPG",
     "assets/images/Display pic (Copy).JPG",
     "_pages/resources.md",
-    "_pages/Research.md",
     "_pages/space.md",
     "README.md",
     "assets/city-pics/florence1.jpg",
