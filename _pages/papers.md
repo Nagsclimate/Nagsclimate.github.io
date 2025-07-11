@@ -21,12 +21,6 @@ author_profile: true
 2024 | **Nagaraju Gaddam**, Nruthya K, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, High-Resolution Urban Rainfall and Flood Forecasts Using Improved Landuse Datasets in a Coupled Hydromet Model . [Manuscript under preparation](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H23S1833G/abstract){: .btn .btn--inverse} |
 
 <br>
-## Non Academic publications
-
-2024 | **Nagaraju Gaddam**, Nruthya K, Abhinav Wadhwa, Likhitha Pentakota, Pradeep Mujumdar, High-Resolution Urban Rainfall and Flood Forecasts Using Improved Landuse Datasets in a Coupled Hydromet Model . [Manuscript under preparation](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H23S1833G/abstract){: .btn .btn--inverse} |
-
-<br>
-
 ## Conference presentations
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/journey.md",
+                "file": "_pages/papers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "journey"
+              "title": "papers"
             }
           }
         ]
@@ -170,25 +170,25 @@
   },
   "active": "f3306d51fe039250",
   "lastOpenFiles": [
+    "_pages/projects.md",
+    "_pages/papers.md",
+    "_pages/music.md",
+    "_pages/journey.md",
+    "_pages/join-us.md",
+    "_pages/index.md",
+    "_pages/About.md",
     "assets/images/Display1.JPG",
     "assets/images/Display pic (Copy).JPG",
     "_pages/resources.md",
     "_pages/Research.md",
     "_pages/space.md",
-    "_pages/About.md",
-    "_pages/index.md",
     "README.md",
-    "_pages/join-us.md",
-    "_pages/journey.md",
     "assets/city-pics/florence1.jpg",
     "assets/city-pics/jonathan-korner-pRU-VnBVJMQ-unsplash.jpg",
     "assets/city-pics/ali-nuredini-X35Ivset6-Y-unsplash.jpg",
     "assets/city-pics/florence.jpg",
     "assets/city-pics/florence.jpg.crdownload",
     "_pages/404.md",
-    "_pages/papers.md",
-    "_pages/music.md",
-    "_pages/projects.md",
     "assets/images/Self.jpg",
     "_pages/resources (Copy).md",
     "_pages/creative-space.md",
