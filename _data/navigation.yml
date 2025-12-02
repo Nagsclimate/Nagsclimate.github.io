@@ -1,0 +1,13 @@
+main:
+  - title: "About"
+    url: /About/
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /papers/
+  - title: "Resources"
+    url: /resources/
+  - title: "My Journey"
+    url: /journey/
+  - title: "Creative Space"
+    url: /space/
