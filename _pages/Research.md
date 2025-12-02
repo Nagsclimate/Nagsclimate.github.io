@@ -26,13 +26,13 @@ Cities, situated at the crossroads of rising temperatures and growing population
 
 | **Heatwave Dynamics and Urban Morphology in Bologna** <br> <br> Given the strong spatial variability of temperatures across Bologna’s historic core, compact districts, and sprawling peripheries, what urban form best reduces extreme heat? In this study, we analyze recent heatwave events and examine how Bologna’s morphology modulates local heat islets. We find that lower-density suburban areas generally reduce the mean temperature of the city. However, for the same mean heatwave intensity, these sprawling patterns also produce sharper local thermal extremes, revealing a similar paradox: **sprawl lowers average heat but amplifies micro-scale extremes**, while compact areas increase average heat but reduce spatial variability.  <br> <br> Read more: [[Scientific Reports](https://www.nature.com/articles/s41598-019-56091-w)] [[EarthArXiv Preprint](https://eartharxiv.org/gxj9m/)] |
 
-<video width="500" controls autoplay loop muted>
+<video width="250" controls autoplay loop muted>
   <source src="/assets/research/bologna_stations_blink_80.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 | **Urban-Scale Rainfall and Flood Forecasting for Bangalore City** <br> <br> Reliable high-resolution rainfall forecasts are critical for enabling timely early warnings and informed decision-making, particularly in rapidly urbanizing regions vulnerable to pluvial floods. This research presents a high-resolutionWeather Research and Forecasting (WRF) model developed for Bangalore City, India. The model is designed to provide probabilistic rainfall forecasts and is coupled with a two-dimensional hydrologic model to simulate flood inundation. To better capture the complex dynamics of urban rainfall, the WRF model integrates urban-specific datasets, including the World Urban Database Access Portal Tool (WUDAPT), Single-layer Urban Canopy Model (SUCM), and Local Climate Zone (LCZ) classifications. These enhancements significantly improve the accuracy of forecasts at neighborhood scales<br> <br> Read more: [[Scientific Reports](https://www.nature.com/articles/s41598-019-56091-w)] [[EarthArXiv Preprint](https://eartharxiv.org/gxj9m/)] |
-<img src="/assets/research/Heavy_rain.png" width="1800px" alt="NSR"> |
+<img src="/assets/research/Heavy_rain.png" width="250px" alt="NSR">|
 
 
 
