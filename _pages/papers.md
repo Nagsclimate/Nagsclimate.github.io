@@ -36,7 +36,7 @@ author_profile: true
 
 <br>
 
-## Seminars, workshops, and invited talks
+## Conference &  Seminars, workshops
 
 2025/10 | Second Course on Porting Code and Algorithms to GPUs . *University  of Bololgna, Bologna, Italy*. |
 

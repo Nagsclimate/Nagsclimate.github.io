@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/About.md",
+                "file": "_pages/Research.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "Research"
             }
           }
         ]
@@ -171,15 +171,18 @@
   },
   "active": "f3306d51fe039250",
   "lastOpenFiles": [
-    "_pages/404.md",
+    "assets/research/Bologna.png",
+    "assets/research/bologna_stations_osm.png",
+    "assets/research/Heavy_rain.png",
+    "_pages/index.md",
+    "assets/research/bologna_stations_blink_80.mp4",
     "_pages/Research.md",
     "_pages/projects.md",
     "_pages/papers.md",
     "_pages/music.md",
     "_pages/journey.md",
-    "_pages/index.md",
+    "_pages/404.md",
     "_pages/About.md",
-    "assets/research/bologna_stations_blink_80.mp4",
     "assets/research/ezgif-6a06f719194477f0.mp4",
     "assets/research/bologna_stations_blink_80.gif",
     "assets/images/bologna_stations_blink_80.gif",
@@ -187,7 +190,6 @@
     "_pages/resources.md",
     "_pages/join-us.md",
     "index.html",
-    "assets/research/Heavy_rain.png",
     "assets/research",
     "assets/podcast/podcast2.jpg",
     "assets/podcast/podcast1.jpg",
@@ -196,7 +198,6 @@
     "assets/music/Tatvam_old.jpg",
     "assets/music/Tatvam_new.jpg",
     "assets/music/Swaranjali.png",
-    "assets/music/Mosey.png",
     "assets/music",
     "assets/logos",
     "assets/images",

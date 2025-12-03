@@ -14,8 +14,6 @@ toc_icon: fal fa-stream
 
 ## The Real Me
 
-[**The hidden curriculum of grad school**](https://www.nature.com/articles/s41561-021-00799-w): Getting a PhD can be surprisingly different than your undergraduate journey. Here's a good way to better adjust your expectations of grad school. |
-
 [**Obsidian**](https://obsidian.md/): I am a big fan and a long time user of Obsidian system for personal knowledge management. I have found this to be the most useful tool to manage my research (esp. advisor meetings). As writing is an absolutely essential skill for PhD students, I highly recommend a proper writing app such as this one. |
 
 [**Calendar. Not to-do lists.**](https://blog.usejournal.com/calendar-in-stead-of-to-do-lists-9ada86a512dd): When it comes to time management, I am not a calendar-based planner. But if you are, check out this amazing blog post.|
