@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/Research.md",
+                "file": "_pages/About.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Research"
+              "title": "About"
             }
           }
         ]
@@ -171,21 +171,21 @@
   },
   "active": "f3306d51fe039250",
   "lastOpenFiles": [
+    "_pages/404.md",
+    "_pages/Research.md",
+    "_pages/projects.md",
+    "_pages/papers.md",
+    "_pages/music.md",
+    "_pages/journey.md",
+    "_pages/index.md",
+    "_pages/About.md",
     "assets/research/bologna_stations_blink_80.mp4",
     "assets/research/ezgif-6a06f719194477f0.mp4",
     "assets/research/bologna_stations_blink_80.gif",
     "assets/images/bologna_stations_blink_80.gif",
-    "_pages/papers.md",
-    "_pages/music.md",
-    "_pages/journey.md",
-    "_pages/404.md",
     "_pages/space.md",
     "_pages/resources.md",
-    "_pages/Research.md",
-    "_pages/projects.md",
-    "_pages/index.md",
     "_pages/join-us.md",
-    "_pages/About.md",
     "index.html",
     "assets/research/Heavy_rain.png",
     "assets/research",
@@ -202,7 +202,6 @@
     "assets/images",
     "assets/files/Water-Poverty.pdf",
     "assets/files/WUDAPT_BAMS_2018.pdf",
-    "assets/files/WRF_domain.pdf",
     "README.md",
     "_pages/resources (Copy).md",
     "_pages/creative-space.md",
